@@ -1,0 +1,274 @@
+[
+  {
+    "Verb": "Account (for) / Bring to account",
+    "Description": "Account requires you to show how to record an element in the financial statements appropriately. This might be by means of a journal entry, Taccount, or an extract from the financial statements. Remember, a journal or a T-account is only complete if it shows the date of the entry, the correct accounts, the correct amounts, and has a description (narration) – easy marks are often thrown away through carelessness.  Bring to account requires you to include all components, say itemise all revenue that should be recognised for income tax purposes."
+  },
+  {
+    "Verb": "Advise / Give advice",
+    "Description": "As a Professional Accountant, your work will invariably require you to form an opinion about the most appropriate course of action, or offer alternative courses of action depending upon the situation. This type of question requires you to give specific guidance to an individual or a group (eg a taxpayer, audit client, management, etc), so your answer must provide specific information or make a recommendation tailored to the individual or group and justify your position."
+  },
+  {
+    "Verb": "Analyse",
+    "Description": "Identify the key components, look for similarities and differences, look for patterns or outliers and weigh up the issues. If there is numerical data, you might need to provide a range of answers depending on how you substitute the data into your model. Make sure you state any implications of your answer and any assumptions that you make."
+  },
+  {
+    "Verb": "Apply",
+    "Description": "This instruction requires you to relate your answer back to a specific document/s or set of facts. Alternatively, you may be required to use a specific formula, model, or process. For instance, 'Apply the relevant Singapore Financial Accounting Standard to …'.  Another example would be 'Apply the three-year and two-year concessional rules for determining tax residence'. Apply and with reference to are similar."
+  },
+  {
+    "Verb": "Appraise",
+    "Description": "Make a judgment about the value, quality, outcomes, results or size.  Often there will be a qualifier in the instruction, which will tell you exactly what to appraise. For instance, 'Appraise Company X's credit worthiness …'. Professional judgment and scepticism (a questioning mind) are called for when making an appraisal. Appraise and assess are interchangeable."
+  },
+  {
+    "Verb": "Arrange",
+    "Description": "Put into the correct order or sequence. Sometimes arrange will require you to make a judgment about which items or factors should be given priority or the order of importance (rank or prioritise). For instance, when considering the severity and/or frequency of risks, it is possible to prioritise (or rank) the risks according to whether they have a low, medium, or high probability of occurring and appropriate resources can be deployed efficiently."
+  },
+  {
+    "Verb": "Assess",
+    "Description": "Make a judgment about the value, quality, outcomes, results or size.  Often there will be a qualifier in the instruction, which will tell you exactly what to assess. For instance, 'Assess the adequacy of the disclosures in the financial statements relating to …'.  Professional judgment and scepticism (a questioning mind) are called for when making an assessment. Appraise and assess are interchangeable."
+  },
+  {
+    "Verb": "Bullet points",
+    "Description": "Unless specifically asked for, only use bullet points in your answer as an absolute last resort if you are running out of time. A quarter of a mark is better than zero."
+  },
+  {
+    "Verb": "Calculate /",
+    "Description": "Do the number crunching and derive the correct answer. Make sure that you write down your workings and crosscheck your numbers.  Candidates often underperform because of careless mistakes."
+  },
+  {
+    "Verb": "Compute",
+    "Description": null
+  },
+  {
+    "Verb": "Comment",
+    "Description": "Comment is similar to evaluate in that you are required to make a judgment or provide your opinion based on the facts at hand. Professional judgment and scepticism (a questioning mind) are called for when commenting."
+  },
+  {
+    "Verb": "Compare and Contrast",
+    "Description": "Compare requires you to show how things are similar and/or different while contrast requires you to show how things are different or opposite. Even if you are asked just to compare, you must indicate both the similarities and differences."
+  },
+  {
+    "Verb": "Conclude / Draw conclusions",
+    "Description": "Form a judgment, or determine the outcome, or resolve an issue, by using the facts presented. An example might be 'Conclude whether to outsource the human resource function'."
+  },
+  {
+    "Verb": "Critically (analyse / evaluate)",
+    "Description": "'Critically' requires that your answer be more extensive than if you were asked to analyse or evaluate the data. Your answer must add a greater degree or level of accuracy, depth, knowledge, understanding, logic, questioning, reflection and quality to your analysis or evaluation."
+  },
+  {
+    "Verb": null,
+    "Description": "Remember, critically requires you to consider both the positive and negative points and apply professional scepticism (a questioning mind) in conjunction with professional judgment. Often when an examiner asks you to critically evaluate or analyse something it is because there can be more than one right answer, so you have to convincingly defend your opinion as part of your answer."
+  },
+  {
+    "Verb": "Defend",
+    "Description": "Whenever you see the word defend you must provide reasons for your answer, in other words, provide support for your argument or conclusion. If you fail to justify your answer, you will lose valuable marks. For example, 'Defend your advice.'"
+  },
+  {
+    "Verb": "Define",
+    "Description": "Like list, you are unlikely to be asked just to define a term, particularly in a professional accounting-related examination, unless it is a term that requires you to communicate your understanding rather than copying down someone else's definition or rote learning. For instance, 'Define in your own words …'."
+  },
+  {
+    "Verb": "Demonstrate",
+    "Description": "Demonstrate requires you to prove or disprove something beyond any doubt, or show that it applies in the situation described by giving evidence (for instance, provide an example). The evidence can be from the facts given or from your general knowledge and experience. Demonstrate and illustrate are similar."
+  },
+  {
+    "Verb": "Describe",
+    "Description": "Describe requires you to provide the characteristics and features of an item or situation. For instance, 'Describe the audit procedures to verify …' requires you to state the specific audit procedure/s that you would use without going into step-by-step detail of how to perform that procedure."
+  },
+  {
+    "Verb": "Detail",
+    "Description": "Detail requires you to give very specific instructions or advice. For instance, 'Detail the audit procedures to verify ...' requires you to provide step-by-step instructions. Another example is 'Detail how the findings from the site visit will affect the planning of the statutory audit'. This instruction requires you to state the positive and negative consequences in relation to the site visit and the planning of the audit.  Don't forget to think about the future and the past, not just the present when stating the consequences."
+  },
+  {
+    "Verb": "Determine",
+    "Description": "Ascertain or conclude after analysis and evaluation the most appropriate course of action or most correct answer from a range of viable alternatives."
+  },
+  {
+    "Verb": "Diagram",
+    "Description": "Draw a diagram requires you to convey your answer primarily via a picture (X&Y graph, flow chart, timeline, Venn, ranking pyramid, lifecycle, process, decision tree, etc). While draw a diagram usually does not require any narrative (unless specifically asked for), don't forget to label each part."
+  },
+  {
+    "Verb": "Discuss",
+    "Description": "Discuss requires you to provide the 'for' and 'against' arguments, you cannot have a discussion without opposing views otherwise it would be just a conversation. If discuss is placed near the front of the instruction, then it requires you to provide an answer that is similar to explain, but addresses both the for and against arguments. For instance, 'Discuss why numerical valuation is essential when buying or selling a small business'. However, if there is a statement and discuss is placed at the end, your answer must be in the form of an essay with the following elements:"
+  },
+  {
+    "Verb": null,
+    "Description": "•          An introduction, which declares whether you agree, disagree, partly agree, or partly disagree with the statement;"
+  },
+  {
+    "Verb": null,
+    "Description": "•          The body of your answer, stating: (i) Why it is possible to agree and (ii) why it is possible to disagree with the statement. You should provide examples to support both points of view; and"
+  },
+  {
+    "Verb": null,
+    "Description": "•          A conclusion that proves your original position."
+  },
+  {
+    "Verb": null,
+    "Description": "An example of a discuss question that requires an essay style answer would be 'Numerical valuation is not essential when buying or selling a small business because the actual selling price is the outcome of negotiation. Discuss'."
+  },
+  {
+    "Verb": "Distinguish",
+    "Description": "To note differences between. For instance, 'Describe what is meant by the term tax planning and distinguish it from tax evasion'. Apart from describing what tax planning involves (say 1–2 marks), you need to explain how the two terms are different and how they are similar.  However, providing a list of differences and similarities is insufficient – complete sentences are essential to achieve full marks. In addition, it is important that you also mention any other relevant factors (eg the ethical and legal issues)."
+  },
+  {
+    "Verb": "Evaluate",
+    "Description": "Pass judgment on or provide your opinion based on the facts at hand.  When making an evaluation, there are often predetermined criteria that you will use to base your opinion on. The key here is to give your opinion or make a judgment of the facts, but providing just a description of the facts is insufficient. Professional judgment and scepticism (a questioning mind) are called for when making an evaluation. Examine and evaluate are interchangeable."
+  },
+  {
+    "Verb": "Examine",
+    "Description": "Pass judgment on or provide your opinion based on the facts at hand.  When examining the facts given, there are often predetermined criteria that you will use to base your opinion on. The key here is to give your opinion or make a judgment of the facts, but providing just a description of the facts is insufficient. Professional judgment and scepticism (a questioning mind) are called for when making an evaluation. Examine and evaluate are interchangeable."
+  },
+  {
+    "Verb": "Explain",
+    "Description": "As a Professional Accountant, you will be frequently called upon in your work to explain difficult concepts and technical issues to people who are not accounting trained. This is where your ability to share your knowledge using simple everyday terms will be most needed."
+  },
+  {
+    "Verb": null,
+    "Description": "Explain requires you to write at least several sentences conveying how you have analysed the information in a way that a layperson can easily understand the concept or grasp the technical issue at hand. For instance, 'Explain whether an 'emphasis of matter' paragraph or an 'other matter' paragraph would be most appropriate in this situation', or 'Explain how a partnership is assessed for tax'. Evaluate and examine are interchangeable."
+  },
+  {
+    "Verb": "Identify",
+    "Description": "Identify is similar to list, but requires you to also provide an explanation as to why the item/s that you have identified is/are relevant to the facts given in the question."
+  },
+  {
+    "Verb": null,
+    "Description": "Often identify will require you to select a specific issue or issues, but not all issues, so you need to look out for any qualifying words. For instance, 'Identify the Board Matters …' is asking you to focus solely on issues that relate to Board Matters from the Singapore Code of Corporate Governance, so if you digress and identify remuneration issues, you will not score well. Another example is 'Identify the companies that qualify as members of a group for the purposes of group tax relief'. In order to score well in this second example, you need to identify the companies and state why they are included in the group. You also need to state if a company is not included and why."
+  },
+  {
+    "Verb": "Illustrate / Give examples",
+    "Description": "Illustrate requires you to provide an example, either from the facts given, a real-life example, or a made-up example to illustrate the point you are trying to make. Illustrate and demonstrate have similarities."
+  },
+  {
+    "Verb": "In accordance with",
+    "Description": "This instruction requires you to relate your answer back to a specific document. Failure to make specific mention of the document in your answer will result in a loss of marks."
+  },
+  {
+    "Verb": "Interpret",
+    "Description": "Look at the whole as well as the individual parts and decide what the data (or diagram) is telling you. Remember, although interpret may involve some subjective assessment, some answers will be more right (or appropriate) than others."
+  },
+  {
+    "Verb": "Justify",
+    "Description": "Whenever you see the word justify you must provide reasons for your answer, in other words, provide support for your argument or conclusion. If you fail to justify your answer, you will lose valuable marks. Justify is similar to defend."
+  },
+  {
+    "Verb": "List",
+    "Description": "Prepare an itemised list. Although you are unlikely to be asked just for a list of items, it is important to remember that many of the common verbs used by examiners require you to begin with a mental list of issues to consider."
+  },
+  {
+    "Verb": "Outline",
+    "Description": "Outline requires you to provide a general overview of the situation and indicate the main features. Outline is used when the question is worth only a couple of marks, but a single sentence is usually never enough to achieve full marks."
+  },
+  {
+    "Verb": "Plan",
+    "Description": "Prepare a detailed proposal. For instance, in an assurance engagement, you may be asked to 'Plan a review of historical information'."
+  },
+  {
+    "Verb": "Predict",
+    "Description": "Suggest what may happen based on the available information."
+  },
+  {
+    "Verb": null,
+    "Description": "Remember, although predicting involves uncertainty, some answers will be more right (or appropriate) than others."
+  },
+  {
+    "Verb": "Prepare",
+    "Description": "Prepare requires you to produce your answer using a specific format.  For instance, 'Prepare the Statement of Cash Flows for …' or 'Prepare all the relevant journal entries for …'. Remember, a journal entry is only complete if it shows the date of the entry, the correct accounts, the correct amounts, and has a description (narration) – easy marks are often thrown away through carelessness. Record and prepare have similarities."
+  },
+  {
+    "Verb": "Prioritise",
+    "Description": "Make a judgment about which items or factors should be given priority based on importance. For instance, when considering the severity and/or frequency of a risk, it is possible to categorise risks according to whether they have a low, medium, or high risk of occurring and appropriate resources can be deployed efficiently. Rank and prioritise are interchangeable, and both terms have similarities with arrange."
+  },
+  {
+    "Verb": "Produce",
+    "Description": "Produce requires you to present your answer in a specific format from scratch. For instance, you may be required to 'Produce a Profit or Loss Statement'."
+  },
+  {
+    "Verb": "Propose/",
+    "Description": "Put forward (for example, a point of view, idea, argument, alternatives, etc) for consideration or action. For instance, 'Based on the facts of the case, propose the most tax-effective entity type …', or 'Propose audit adjusting entries to correct …'."
+  },
+  {
+    "Verb": "Provide",
+    "Description": null
+  },
+  {
+    "Verb": "Prove",
+    "Description": "Prove requires you to establish that something is true by citing evidence or giving clear logical reasons. When you reconcile the bank account in the general ledger you are proving that the account balance is correct."
+  },
+  {
+    "Verb": "Quantify",
+    "Description": "Provide a numerical value (an exact calculation) or a range of values"
+  },
+  {
+    "Verb": null,
+    "Description": "(upper/lower limits, average, likely values, etc). For instance, 'Quantify the misstatement in the 'investment in subsidiary' in the Statement of"
+  },
+  {
+    "Verb": null,
+    "Description": "Financial Position' or 'Quantify the adverse direct materials variance cost'. As with calculate and compute, you should always show your workings and crosscheck your numbers."
+  },
+  {
+    "Verb": "Rank",
+    "Description": "Make a judgment about which items or factors should be given priority based on importance. For instance, when considering the severity and/or frequency of a risk, it is possible to categorise risks according to whether they have a low, medium, or high risk of occurring and appropriate resources can be deployed efficiently. Rank and prioritise are interchangeable, and both terms have similarities with arrange."
+  },
+  {
+    "Verb": "Record",
+    "Description": "Record is similar to prepare in that you may need to perform a calculation and show the specific components in an appropriate format.  For instance, 'Record the closing entries to transfer profit (or loss) to retained earnings'."
+  },
+  {
+    "Verb": null,
+    "Description": "Record and prepare have similarities."
+  },
+  {
+    "Verb": "Recognise",
+    "Description": "Recognise requires you to distinguish between various components and to be able to state how each component should be treated. For instance, '… and indicate if the gain/loss is recognised as profit or loss or other comprehensive income'. Identify and recognise have similarities."
+  },
+  {
+    "Verb": "Recommend",
+    "Description": "Make a statement about the most appropriate course of action. If there is more than one possible course of action, state which action you would choose and why (justify your choice). Your professional judgment and your ability to interpret the wider situation are critical to scoring well in these types of questions. Don't forget to think about the future and the past, not just the present when making a recommendation."
+  },
+  {
+    "Verb": "Reconcile /",
+    "Description": "Prove that the balance of an account is correct. For instance, 'Using the data given, prepare a bank reconciliation' requires you to prove that the bank balance in the general ledger corresponds with the balance shown on the bank statement, listing down the timing differences (eg unpresented cheques) and errors (if any). Note here the term bank reconciliation, as this acts as a qualifier to indicate the format that you should use to present your answer."
+  },
+  {
+    "Verb": "Reconciliation",
+    "Description": null
+  },
+  {
+    "Verb": "Respond / Reply",
+    "Description": "This is your right of reply. When you are asked to respond, it is usually in reply to a comment made by someone else (although you can also be asked how you would respond in a particular situation). For instance, 'Respond to the Chairperson regarding her comment on impairment'. Whenever you are asked to respond, you must always justify your opinion or the actions you would take."
+  },
+  {
+    "Verb": "State",
+    "Description": "State is similar to list, but the items require your professional judgement. For instance, 'State any restrictions that apply'. One of the easiest ways to make sure that you state comprehensively is to think, 'list and justify'. You will note that state appears in many of the verb descriptions given."
+  },
+  {
+    "Verb": "Summarise",
+    "Description": "Provide a concise description. Summarise is similar to describe, but in a condensed format."
+  },
+  {
+    "Verb": "To what extent",
+    "Description": "This instruction requires you to advance arguments in favour of a position or point of view and respond to or take into consideration the opposing arguments or points of view. You must always justify your answer."
+  },
+  {
+    "Verb": "Translate",
+    "Description": "For the purposes of Singapore CA Qualification examinations, translate refers to the conversion of monetary values from one currency into another currency (although translate can refer to spoken and written language as well)."
+  },
+  {
+    "Verb": "Use / Using",
+    "Description": "This instruction tells you the type of model that you must use when formulating your answer. For instance, 'Using the Discounted Cash Flow approach, …' tells you what valuation approach to use.  Another common phrase is 'Using the facts of the case, ...', which tells you that you must relate your answer to the specific facts given in the question scenario."
+  },
+  {
+    "Verb": null,
+    "Description": "Generic answers will not pass."
+  },
+  {
+    "Verb": "With reference to",
+    "Description": "This instruction requires you to relate your answer back to a specific document/s or set of facts. For instance, 'With reference to relevant Singapore Financial Reporting Standards, explain the risk of material misstatements relating to …'.  In this example, relevant Singapore"
+  },
+  {
+    "Verb": null,
+    "Description": "Financial Reporting Standards acts as a qualifier (with reference to 'what'). Failure to make specific mention of the document/s or facts in your answer will result in a substantial loss of marks."
+  }
+]

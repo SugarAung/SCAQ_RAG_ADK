@@ -75,7 +75,7 @@ root_agent = Agent(
     - Each object MUST match this schema exactly:
       - "Question": string
       - "Answer": string
-      - **"source_files": string[]** (all originating JSON filenames used to produce the answer, e.g., ["Assurance.json", "Financial_Reporting.json"])
+      - "source_file": string (the originating JSON filename, e.g., "Assurance.json")
     - If **insufficient or no relevant data** is found to answer, return exactly:
       "No relevant data found in the current corpus."
 
@@ -85,19 +85,19 @@ root_agent = Agent(
       {
         "Question": "Explain the purpose of audit sampling in financial audits.",
         "Answer": "Audit sampling is used to examine a representative subset of a population so that conclusions can be drawn about the whole. This enables auditors to provide assurance efficiently without testing every item, while maintaining sufficient and appropriate evidence to support the opinion.",
-        "source_files": ["Assurance.json"]
+        "source_file": "Assurance.json"
       },
       {
         "Question": "Describe the process of evaluating the effectiveness of internal controls.",
         "Answer": "Evaluating internal controls involves assessing design and operating effectiveness to determine whether controls mitigate identified risks and support reliable financial reporting. Procedures typically include inquiry, observation, inspection, and reperformance as supported by the retrieved materials.",
-        "source_files": ["Financial_Reporting.json", "Assurance.json"]
+        "source_file": "Financial_Reporting.json"
       }
     ]
     ```
 
     ### Source Tracking
-    - For every Q–A pair, set **"source_files"** to the **complete list** of filenames from which supporting content was retrieved and used.
-    - Preserve the exact filenames.
+    - For every Q–A pair, set "source_file" to the **exact filename** from which the content was retrieved.
+    - If multiple files contributed, choose the **most authoritative/primary** file referenced by the retrieved passages.
 
     ### Insufficient Data Handling
     - If the retrieved passages do not contain enough information to form **both** a question and a correct answer:

@@ -1,0 +1,5434 @@
+[
+  {
+    "Module": "Ethics and Professionalism",
+    "Learning Outcomes": "PROFESSIONAL ETHICS, VALUES, AND JUDGMENT",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": "Non Examinable"
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Role of a chartered accountant",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(1)  Explain the professional values, ethics, and attitudes that identify Chartered Accountants as members of a profession.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(2)  Explain the legal and ethical expectations of a Chartered Accountant of Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(3)  Outline the role of the authorities (such as the Accounting and Corporate Regulatory Authority) in ethical and related business matters.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(4)  Apply the ISCA Code of Professional Conduct and Ethics in relation to a Chartered Accountant of Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(5)  Explain what is meant by the 'Public Interest' and its relevance to the work of Chartered Accountants.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(6)   Explain the role of ethics in relation to business and good governance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The ethical principles",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(7)  Explain the Fundamental Principles of integrity, objectivity, professional competence and due care, confidentiality, and professional behaviour.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(8)  Outline the safeguards that can be applied to minimise the threats of breaching the Fundamental Principles.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(9)  Demonstrate the application of ethical principles to business activities, judgment, and policy formulation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(10)  Define and apply independence, professional scepticism, and accountability.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(11)  Compare the rules-based approach with the principles-based approach to regulation and professional codes of conduct and ethics.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The conceptual framework",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(12)  Explain how the conceptual framework assist accountants to comply with the fundamental principles.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(13)  Identify ethical threats in accordance to the fundamental principles.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(14) Evaluate the acceptable level of an ethical threat in relation to the fundamental principles.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(15)   Propose actions or safeguards to eliminate an evaluated ethical threat which is not at an acceptable level.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  Anti-money laundering (AML) and countering the financing of terrorism (CFT)",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(16)  Evaluate the role of professional accountants in combatting AML and CFT.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(17)  Explain the systems and controls in place to address money laundering and terrorist financing concerns.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(18) Describe customer due diligence (CDD) and how it enables effective identification and reporting of suspicious activities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(19)  Identify suspicious activities in relation to AML/SFT and describe how accountants can report such activities to authorities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(v)  Personal effectiveness",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(20)  Demonstrate an ability to reflect on experiences and situations.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(21)  Describe the personal qualities and skills required to work in the accountancy profession, and be able to assess one's own characteristics in relation to these qualities and skills.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(22)  Identify areas for personal development and improvement.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(23)  Demonstrate personal effectiveness in a changing work environment through:",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Timeliness;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Accuracy;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Communication;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Motivation;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Flexibility and embracing ambiguity; •  Cooperativeness; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•           Conflict resolution.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(24)  Evaluate professional commitments and manage own time and resources to achieve them.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(25)  Explain the benefits of cooperation, collaboration, and teamwork.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(26)  Describe how individual needs can affect motivation in an organisation.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(27)   Identify common sources of conflicts in the workplace.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(28)  Explain the ways in which conflict can be resolved and use appropriate conflict resolution strategies to achieve given objectives.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": "Financial Reporting",
+    "Learning Outcomes": "(i)  Objectives of financial reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "Written endof-module examination that accounts for 100% of a Candidate's final grade. The Financial Reporting Module examination is 100% of the assessment and candidates have to attain a minimum of 50% of the available marks to achieve a pass. The time allowed for the examination paper is 3 hours 15 minutes."
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Understand the role of financial reporting in the decision-making process of various stakeholders.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "understand",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Identify stakeholders in the financial reporting process.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain general-purpose financial statements to stakeholders.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Identify and explain the different stakeholders' roles in public sector financial reporting.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(ii) Standard-setting process",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain the process adopted by the International Accounting Standards Board (IASB) in issuing new accounting standards or amending existing standards.",
+    "Core/ NonCore": "Non- Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(6)  Explain the mandate of the Singapore's Accounting Standards Commitee (ASC).",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iii)  The Conceptual Framework for Financial Reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(7)  Discuss the use of a Conceptual Framework in the setting of accounting standards.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(8)  Apply the principles of the framework to recommend an accounting treatment for a transaction not covered by an extant accounting standard or a proposed new standard.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(9)  Identify the relationship between accounting theory and practice.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  Regulatory requirements",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(10)  Explain the additional reporting requirements for entities listed on the Singapore Exchange insofar as these go beyond compliance with SFRS.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(11)  Recognise and apply the legal requirements of Companies Act Cap 50 relating to the preparation of statutory financial statements of an entity, including the circumstances where an entity is required to prepare and present statutory financial statements.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise;apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(12)  Explain the filing requirements for all entities in Singapore other than the requirements to file tax returns.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(v)  The international context",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(13)  Understand the issues relating to the convergence/ non-convergence of accounting standards.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": "understand",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(14)  Appreciate the key differences between IFRS and domestic accounting standards in Asia.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": "appreciate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(vi)  Reporting and disclosure",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(15) Explain and assess the general principles of disclosure and communication with shareholders.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain;assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(16)  Explain and analyse 'best practice' corporate governance disclosures.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain;analyse",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(17)  Explain and analyse the purposes of the annual general meeting and extraordinary general meetings for information exchange between the board of directors and shareholders.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain;analyse",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(vii)  Compliance and ethics in financial reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(18)  Assess the relevance and importance of ethical and professional issues in complying with accounting",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "standards.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(19)  Appraise the potential ethical implications of professional and managerial decisions in the preparation of financial reports.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "appraise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(20)  Appraise, discuss and recommend an appropriate course of action arising from ethical dilemmas in financial reporting.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "appraise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(21)  Assess the consequences of not upholding ethical principles in the preparation of financial reports.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "RECOGNITION AND MEASUREMENT OF ASSETS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Measurement and reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(22)  Apply, explain and evaluate accounting standards for major classes of assets, insofar as they affect initial recognition, measurement (including initial measurement and subsequent re-measurement), classification and disclosure, and de-recognition from an entity's statement of financial position.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(23)  Evaluate the measurement bases adopted by accounting standard setters and explain different methods of measurement used for major classes of assets.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Impairment of assets",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(24)  Apply, explain or evaluate the circumstances in which an impairment test of assets is necessary.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(25)  Calculate, explain and evaluate the adequacy of an impairment test for all classes of assets under the relevant accounting standard appropriate to that class of asset.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "calculate;explain;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(26)  Evaluate sensitivity of an impairment analysis to the exercise of professional judgment, use of assumptions and critical estimates.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(27)  Identify and explain a cash-generating unit and explain the need for impairment testing to be done at the smallest cash-generating unit level.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(28)  Allocate impairment losses for a cash-generating unit.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "allocate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Specific applications: Apply the relevant accounting treatment on the ng classes of assets:",
+    "Core/ NonCore": null,
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Apply the relevant accounting treatment on the",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "following classes of assets:",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(29) • Construction contracts;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(30) • Inventory;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(31) • Property, plant and equipment;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(32) • Investment property;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(33) • Goodwill and other intangible assets; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(34) • Assets held for sale",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(C)RECOGNITION AND MEASUREMENT OF LIABILITIES",
+    "Core/ NonCore": null,
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Measurement and reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(35)  Apply, explain and evaluate accounting standards for",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "major classes of liabilities, insofar as they affect initial",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "recognition, measurement (including initial measurement and subsequent re-measurement), classification and disclosure, and de-recognition from an entity's statement of financial position.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(36)  Evaluate the measurement bases adopted by accounting standard setters and explain different methods of measurement used for major classes of liabilities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Specific applications",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Apply the relevant accounting treatment on the following classes of liabilities:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(37)          •   Leases and contracts with the characteristics of leases;",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(38)         •   Income tax;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(39)         •   Provisions and contingencies; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(40)         •  Employee benefits.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(D) RECOGNITION OF REVENUE AND EXPENSES",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Revenue recognition",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Apply and explain the rules for income recognition and deferral, including:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(41)         •   Combination of contracts;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(42)         •  Unbundling of physical and service elements; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(43)         •   Deferred, variable and contingent consideration.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Share-based payment transactions and arrangements",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(44)  Apply and discuss the recognition and measurement criteria for share-based payment transactions and arrangements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "apply;discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(45)  Account for modifications, cancellations and settlements of share-based payment transactions and arrangements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "account",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(E)FINANCIAL ASSETS AND FINANCIAL LIABILITIES",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Principles of financial instruments reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(46)  Apply, discuss and explain the recognition and  de-recognition of financial assets and financial liabilities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;discuss;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(47)  Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(48)  Apply, discuss and explain the treatment of gains and losses arising from financial assets and financial liabilities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;discuss;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(49)  Apply, discuss and explain the treatment of impairment of financial assets.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;discuss;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Derivatives and hedging",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(50)  Account for derivative financial instruments and simple embedded derivatives.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "account",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(51)  Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "outline",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(52)  Explain the importance of documentation of purported hedging transactions for the purposes of applying hedge accounting.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(F) OTHER STANDARDS ON PRESENTATION AND DISCLOSURE OF FINANCIAL STATEMENTS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Foreign currency transactions",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(53)  Apply and explain the rules for determination of an entity's functional currency.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(54)  Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Earnings per share",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(55)  Apply and explain the rules for reporting basic and diluted earnings per share, including where multiple potential ordinary shares are in existence.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(56)  Apply and explain the rules for disclosure of alternative measures of earnings per share.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Operating segment",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(57)  Determine the nature and extent of reportable operating segments.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "determine",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(58)  Specify and discuss the nature of operating segment information to be disclosed.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "specify;discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Events after the reporting date",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(59)  Apply and explain the accounting and disclosure for events after the reporting date.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "apply;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(60)  Determine and report going concern issues arising after the reporting date.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "determine;report",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Related parties",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(61)  Identify the parties considered to be related to an entity.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(62)  Identify the implications of related party transactions and the need for disclosure.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Interim reporting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(63)  Outline the interim reporting requirements under the applicable accounting standards.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "outline",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Equity and other comprehensive income",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(64)  Apply the accounting, disclosure and presentation requirements for equity and other comprehensive income components.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "CONSOLIDATED FINANCIAL STATEMENTS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Foreign operations",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(65)  Outline and apply the translation of foreign operations into the group's presentation currency.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "outline;apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(66)  Account for the consolidation of foreign operations and their disposal.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "account",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Group accounting",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(67)  Identify and outline:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;outline",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       The circumstances in which a group is required to prepare consolidated financial statements; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       The circumstances when a group may claim an exemption from the preparation of consolidated financial statements.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(68)  Apply and discuss the criteria used to distinguish between a subsidiary and an associate.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(69)  Apply the method of accounting for business combinations including the accounting for noncontrolling interests.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(70)  Apply the principles in determining the fair value of consideration transferred.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(71)  Apply the recognition and measurement criteria for identifiable acquired assets and liabilities and goodwill including situations where business combinations are achieved in stages.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(72)  Determine and apply appropriate consolidation procedures to be used in preparing group financial statements, including statements of cash flows.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "determine;apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(73)  Apply the equity method of accounting for associates.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(74)  Outline and apply the key definitions and accounting methods which relate to interests in joint arrangements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "outline;apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Continuing and discontinued interests",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(75)  Prepare group financial statements where activities have been discontinued or have been acquired or disposed of in the period.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "prepare",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(76)  Apply and discuss the treatment of a subsidiary which has been acquired exclusively with a view for subsequent disposal.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "apply;discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "OTHER REPORTING FRAMEWORKS AND EMERGING TRENDS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Other reporting frameworks",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(77)  Demonstrate an understanding of other financial reporting frameworks such as:",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "demonstrate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       SMEs;",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Statutory Boards;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Charities; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Cash Basis of Accounting.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Emerging trends",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(78)  Demonstrate awareness of both domestic and international current developments.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": "demonstrate",
+    "Assessment": null
+  },
+  {
+    "Module": "Assurance Module",
+    "Learning Outcomes": "LEGAL AND PROFESSIONAL FRAMEWORK",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "Each technical module in the Singapore CA Qualification is assessed by way of a written endof-module examination that accounts for 100% of a Candidate's final grade. The Assurance"
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Regulatory frameworks for audit and assurance services",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "Module examination is 100% of the assessment and candidates have to attain a minimum of 50% of the available marks to achieve a pass. The time allowed for the examination paper is 3 hours 15 minutes."
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(1)  Explain the need for laws, regulations, standards and other guidance relating to audit, assurance and related services in Singapore and how they align with international regulatory frameworks, such as those issued by the International Auditing and Assurance Standards Board (IAASB).",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(2)  Outline and explain the need for the legal and professional frameworks including:",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "outline",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            Public oversight of an audit and assurance practice; and",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            The role of audit committees and the impact on audit and assurance practice.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Anti-money laundering and terrorism financing",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(3)  Explain the scope of 'money laundering and terrorism financing' and the related obligations of a Chartered Accountant of Singapore.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(4)  Explain national Singaporean and international efforts to combat money laundering.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Laws and regulations",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(5)  Compare and contrast the respective responsibilities of directors, management and auditors concerning compliance with laws and regulations in an audit of financial statements.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "compare and contrast",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(6)  Describe the auditor's considerations of compliance with laws and regulations and plan audit procedures when possible non-compliance is discovered.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(7)  Explain how, why, when and to whom non-compliance should be reported and the circumstances in which an auditor should withdraw from an engagement.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "CONSIDERATIONS FOR THE PROFESSIONAL ACCOUNTANT",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Code of Professional Conduct and Ethics",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(8)  Explain the fundamental principles of the Code of Professional Conduct and Ethics.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(9)  Recognise conflicts in the application of fundamental ethical principles.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(10)  Discuss the importance of auditors' independence and professional scepticism in planning and performing an audit.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(11)  Recommend a suitable course of action for a professional accountant to take upon discovering a breach of professional ethics by themselves or by others.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "reccomend",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Fraud and error",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(12)  Compare and contrast the respective responsibilities of management and auditors relating to fraud and error.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "compare and contrast",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(13)  Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Professional liability",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(14)  Recognise circumstances in which professional accountants may have legal liability.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(15)  Explain the concept of due care in the performance of work and describe the factors to determine whether or not an auditor is negligent in given situations.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(16)  Recognise the auditor's liability to clients and third parties, including those in transnational engagements and non-audit engagements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(17)  Evaluate the practicability and effectiveness of ways in which liability may be restricted.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(18)  Discuss and appraise the principal causes of audit failure and other factors that contribute to the 'expectation gap' (eg responsibilities for fraud and error).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss;appraise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Communication",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(19)  Describe the auditor's responsibility to communicate with those charged with governance and understand the importance of effective two-way communication of specific matters that are required to be communicated to those charged with governance under local and international auditing standards.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "PRACTICE MANAGEMENT",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Quality control",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(20)  Explain the principles and purpose of quality control of audit and other assurance engagements under the regulatory framework.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(21)  Select and justify quality control procedures that are applicable to a given firm and audit engagement.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "select;justify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(22)  Assess whether an engagement has been planned and performed in accordance with professional standards and public oversight requirements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(23)  Discuss how the provision of non-audit services to audit clients (including auditor-initiated audit adjustments arising from audit work) may compromise the independence of the audit process.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Advertising, publicity, obtaining professional work and fees",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(24)  Recognise situations in which specified advertisements are acceptable.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(25)  Explain the restrictions on practice descriptions and the names of public accounting entities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(26)  Outline the determinants of fee setting and justify the basis on which fees and commissions may and may not be charged for services.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "outline",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(27)  Discuss the ethical and other professional issues, for example, lowballing, involved in establishing and negotiating fees and other types of remuneration for a specified assignment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Appointment and reappointment of auditors",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(28)  Discuss the reasons why entities change their statutory auditors/professional accountants.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(29)  Recognise and explain the factors to be considered when a firm is invited to submit a proposal or fee quote for an audit or other professional engagement.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(30)  Identify the information to be included in a proposal.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(31)  Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement including:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Client acceptance and continuance;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Engagement acceptance and continuance;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Establish whether the preconditions for an audit are present;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Communicating with the predecessor auditor; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Agreeing the terms of engagement.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(32)  Recognise the key issues that underlie the agreement of the scope and terms of an engagement with a client including the full scope of a statutory audit.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "PERFORMING THE AUDIT",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Planning, materiality and assessing the risk of misstatement",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(33)  Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "define",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(34)  Identify and explain the importance of understanding the entity and its environment, including internal controls in risk assessment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(35)  Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(36)  Discuss and apply the use of analytical procedures in the planning of an assignment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "discuss;apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(37)  Explain how the result of planning procedures determines the relevant audit strategy.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(38)  Explain the planning procedures specific to an initial audit engagement.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(39)  Apply the further considerations and audit procedures relevant to initial engagements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(ii)  Evidence",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(40)  Explain the matters that are likely to be relevant in determining what constitutes sufficient, appropriate evidence.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(41)  Evaluate whether a given scenario represent sufficient evidence.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(42)  Explain the rules for documentation of audit evidence, using appropriate media and the reasons for those rules.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(43)  Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(44)  Assess whether more cost-efficient methods for obtaining evidence to support an assertion would have been possible in a given scenario.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(45)  Identify and evaluate the audit evidence expected to be available to support the assertions about classes of transactions, account balances, and presentation and disclosure.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(46)  Apply analytical procedures as substantive audit procedures using financial and non-financial data.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(47)  Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(48)  Explain the specific audit risks and procedures concerning related parties and related party transactions including significant transactions outside normal business.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(49)  Recognise circumstances that may indicate the existence of unidentified related parties and select appropriate audit procedures.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(50)  Explain the use of written management representations to support other audit evidence and the limitations of representations as evidence.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(51)  Identify and explain the circumstances in which an auditor is likely to need an expert opinion to obtain sufficient, appropriate evidence on a matter.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain the differences for evidence evaluation between an expert appointed by an auditor and an expert appointed by a client.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Evaluate the work required to be done when there is the use of an expert including:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Evaluating the relevance, completeness and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "accuracy of that source data significant to that expert's work provided by management;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Evaluation of the expert's competence, capabilities and objectivity for the statutory auditor's purposes;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Adequacy of the expert's work; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       The statutory auditor's duty to form a concurring opinion with the expert.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "apply;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain the use of analytical procedures in evaluation and review.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain how the auditor's responsibilities for corresponding figures, comparative financial statements, and 'other information' are discharged.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iii)  Evaluation and review",
+    "Core/ NonCore": null,
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": ""
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(57)  Discuss the limitations of the standards on auditing and the possible modifications that they may require in the audits of smaller entities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(58)  Discuss the courses of action available to an auditor when documents containing audited financial statements and the auditor's report include other information that is inconsistent with or undermines the credibility of those financial statements and the auditor's report.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(59)  Specify audit procedures designed to identify subsequent events that may require adjustment to, or disclosure in, the financial statements of a given entity or steps to be taken for subsequent discovery of facts.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "specify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(60)  Identify and explain indicators that the going concern basis may be in doubt and evaluate mitigating factors.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(61)  Recommend audit procedures to evaluate the evidence that might be expected to be available and assess the appropriateness of the going concern basis in given situations.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "reccomend",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(62)  Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  Group audits",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(63)  Recognise the specific matters to be considered before accepting appointment as auditor of group financial statements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(64)  Identify and explain the matters specific to planning an audit of group financial statements including assessment of the group, its components, and their environments, the impact of non-coterminous year ends within a group and changes in group structure.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(65)  Justify the situations where a joint audit would be appropriate.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "justify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(66)  Recognise the audit issues and describe audit procedures specific to a business combination.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(67)  Identify and explain the audit risks and necessary audit procedures relevant to the consolidation process and group-wide controls.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(68)  Identify and describe the matters to be considered and the procedures to be performed at the planning stage, when a group engagement team considers the use of the work of component auditors.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "identify;describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(69)  Explain effective communication between the group engagement team and component auditors and the determination and communication of materiality for a group audit, including materiality at the component level.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(70)  Explain the responsibilities of component auditors in the context of a group audit.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(71)  Consider how the group engagement team should evaluate the audit work performed by a component auditor.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "consider",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(72)  Explain the implications for the auditor's report on the financial statements of an entity where the audit opinion on a component is qualified or otherwise modified in a given situation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "OTHER ASSIGNMENTS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Review engagements and audit-related services",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(73)  Describe the nature of a review engagement and auditrelated services, the circumstances in which they might be required and the comparative levels of assurance provided by public accounting entities and distinguish between:",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       A review engagement, audit-related services and an audit of historical financial statements; and",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       An attestation, review or compilation engagement including compiling proforma financial information for a prospectus.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(74)  Plan review engagements, for example:",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "plan",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                        A review of interim financial information; and",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       A review of historical financial information.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(75)  Explain the nature and extent of enquiry and analytical procedures in review engagements and apply these procedures.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Assurance services other than statutory audit",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(76)  Describe the main categories of assurance services that public accounting entities can provide and assess the benefits of providing these services to management and eternal users.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "descirbe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(77)  Justify a level of assurance (reasonable or limited) for an engagement depending on the subject matter evaluated, the criteria used, the procedures applied and the quality and quantity of evidence obtained.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "justify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(78)  Recognise the ways in which different types of risk (eg strategic, operating, information) may be identified and analysed and how it is communicated to management.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(79)  Explain the usefulness to management and other stakeholders of combined assurance, especially in the context of risk management.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Prospective financial information (PFI)",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(80)  Explain the principles of useful PFI.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(81)  Identify and describe the matters to be considered before accepting a specified engagement to report on PFI.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify;describe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(82)  Describe examination procedures for forecasts and projections.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "descirbe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(83)  Apply extant standards for examination and reporting of PFI engagements.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "apply",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(84)  Compare the content of a report on an examination of PFI with reports made in providing audit-related services and apply the regulatory prescriptions.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "compare",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Internal audit",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(85)  Evaluate the potential impact of an internal audit function on the planning and performance of the statutory audit.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(86)  Explain how external and internal auditors may work together to provide stakeholders with combined assurance, including the need to plan all assignments.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Outsourcing",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(87)  Discuss and conclude on the advantages and disadvantages of outsourcing finance and accounting functions.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "1",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(88)  Recognise and evaluate the impact of outsourced functions on the conduct of an audit and the use of assurance reports on controls at a third-party service organisation.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "1",
+    "bloom taxonomy": "recognise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "REPORTING",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Auditor's reports",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(89)  Critically appraise the form and content of an auditor's report in a given situation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "appraise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(90)  Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "recognise;evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(91)  Assess whether a proposed audit opinion is appropriate.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(92)  Advise on the actions that may be taken by the auditor in the event that a modified audit report is issued including actions that must be taken under the easting regulatory framework.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "advise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(93)  Explain when the use of an 'emphasis of matter' paragraph and 'other matter' paragraph would be appropriate.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Reports to those charged with governance and management",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(94)  Critically assess the quality of reports by others and by management to those charged with governance and management.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(95)  Advise on the content of reports to those charged with governance and management in a given situation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "advise",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Other reports",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(96)  Analyse the form and content of the professional accountant's report for an assurance engagement as compared with an auditor's report and the restricted use of reports.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "analyse",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(97)  Discuss the content of a report on examination of prospective financial information.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(98)  Discuss the effectiveness of the 'negative assurance'",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "form of reporting and evaluate situations in which it may be appropriate to espresso a reservation or deny a conclusion.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "CURRENT ISSUES AND DEVELOPMENTS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Professionalism and ethics",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(99)  Discuss the relative advantages of an ethical framework and a rulebook.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(100) Identify and assess relevant emerging ethical issues and evaluate the safeguards available.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "identify;assess",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(101) Discuss ethical issues in the context of current developments in Asia and internationally.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Information technology (IT)",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(102) Describe recent trends in IT and their current and potential impact on auditors (eg the audit implications of 'cyber incidents' and other risks).",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "descirbe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(103) Explain how IT may be used to assist auditors and discuss the issues that may be encountered in automating the audit process.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(104) Explain the circumstances in which enhancements to data capture and information processing systems may add value to a client's activities.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(105) Discuss how business reporting on the internet and growing use of XBRL impacts on the duties of the auditor and how assurance may best be given to stakeholders using such information.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Social and environmental auditing",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(106) Explain the auditor's main considerations in respect of social and environmental matters and how they impact on entities and their financial statements (eg impairment of assets, provisions and contingent liabilities).",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(107) Describe substantive procedures to detect potential misstatements in respect of socio-environmental matters.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "2",
+    "bloom taxonomy": "descirbe",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  Other current issues",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(108) Explain current developments in Singapore and international auditing standards including the need for new and revised standards and evaluate their impact on the conduct of audits.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "1",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(109) Discuss other current legal, ethical, professional and practical matters that affect accountants, auditors, their employers and the profession.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "1",
+    "bloom taxonomy": "discuss",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(110) Explain the circumstances in which listed entity audit failures have mostly taken place in Singapore and overseas in the preceding 20 years, paying particular attention to the apparent ethics of management (including family-owned companies), internal and statutory auditors and others involved in the financial reporting chain.",
+    "Core/ NonCore": "Non-",
+    "Cognitive level": "1",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": null,
+    "Core/ NonCore": "Core",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": "Business Valuation, Governance and Risk (BVGR) Module",
+    "Learning Outcomes": "ENHANCING BUSINESS VALUE",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "Each technical module in the Singapore CA Qualification is assessed by way of a written endof-module examination that accounts for 100% of a Candidate's final grade."
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Increasing business value through organic growth and acquisitions",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "The BVGR examination is 100% of the assessment and candidates have to attain a minimum of 50% of the available marks to achieve a pass. The time allowed for the examination paper is 3 hours 15 minutes."
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(1)  Evaluate capital investment appraisal systems.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(2)  Evaluate strategic considerations in mergers and acquisitions.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "evaluate",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(3)  Explain the strategic role of an effective risk management framework in enhancing business value.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Sustaining business value through sound corporate governance",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(4)  Define and justify sustainable business value creation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": "define;justify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(5)  Explain the strategic role of a sound corporate governance structure, in balancing short-term financial objectives against medium to long-term business aims, in pursuit of an overall corporate mission.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(6) Justify the use of corporate governance mechanisms in ensuring the maintenance of the following forms of capital, from a business continuity maintenance of the following forms of capital, from a business continuity and sustainability perspective: •  Financial capital;",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "justify",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Manufactured capital;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Human capital;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Intellectual capital; •   Natural capital; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Social capital.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(7)  Recommend appropriate corporate governance safeguards to adopt or adapt in the face of unsustainable or dysfunctional management behaviour in specific business contexts.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": "reccomend",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "INVESTMENT APPRAISAL",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Business valuation techniques",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(8)  Identify and explain both the commonly used valuation terms and international glossary of valuation terms.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(9)  Identify and explain the various bases and premise of value in relation to Equitable value, Investment value, Liquidation value, Fair market value, Fair value, Orderly liquidation and Forced Sale.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": "identify;explain",
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(10)  Explain the rationale for adjustments in determining valuation.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(11)  Apply the different business valuation techniques including the discounted cash flow method, future maintainable earnings method and the revised net asset value method for appraising investments.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Impact of financing on investment decisions",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(12)  Assess the appropriateness and cost of the various sources of financing available to a company.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(13)  Assess the impact of interest rate changes on a company's debt exposure.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(14)  Assess the impact of a company's credit quality on its debt financing options.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "International investment and financing decisions",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(15)  Evaluate the significance of exchange controls for a given investment decision and strategies for dealing with restricted remittance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(16)  Assess the impact on a project upon a company's exposure to foreign exchange, cross-border transactions and economic risk.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(17)  Assess the costs and benefits of alternative sources of financing available within the international equity and bond markets.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Mergers and acquisitions versus other growth strategies",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(18)  Discuss the arguments for and against the use of mergers and acquisitions as a method of corporate expansion.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(19)  Evaluate, from a given context, the potential for synergy separately classified as:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Revenue synergy;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Cost synergy; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Financial synergy.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(20)  Outline the problems of overvaluation of target companies",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(21)  Assess the impact of an acquisition or merger on the risk profile of the acquirer.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(22)  Demonstrate an understanding of the procedure for valuing high growth start-ups.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(23)  Demonstrate an understanding of the principal factors influencing the development of the regulatory framework for mergers and acquisitions globally.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "GOVERNANCE AND RESPONSIBILITY",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The Board of Directors",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(24)  Understand the effects of 'tone at the top' on sound corporate governance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(25)  Explain and evaluate the roles and responsibilities of boards of directors and the composition and structure of the board.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(26)  Describe and assess the purposes, roles and responsibilities of directors and non-executive directors (NEDs), including independent directors.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(27)  Describe and analyse the general principles of legal and regulatory frameworks within which directors operate on corporate boards in Asia.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(28)  Define, explore and compare the roles of the Chief Executive Officer and company Chairman.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Scope of corporate governance",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(29) Explain, apply and analyse the purpose of corporate governance in the Asian context, especially in relation to:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            How strong corporate governance and stakeholder relations can help entities plan for the long-term and make better investment decisions;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            Balancing the need for timely decision making with avoidance of power abuse;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            How confidence in the corporate governance of an entity can reduce perceived business risk and impact on valuation;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            Different stakeholder attitudes to the value-added of corporate governance procedures;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            The link between corporate governance and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "political certainty and stability - recognising the similarity between corporate governance and political constitutions; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•            Prevention of dysfunctional concentrations of power.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(30)  Compare and distinguish the different governance issues between the public, private and non-governmental organisations (NGO) sectors.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(31)  Explain and evaluate the roles, interests and claims of the following stakeholders involved in corporate governance:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Directors;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Management;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Investors;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Auditors; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Regulators and Government.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(32)  Explain and briefly explore the development of the Singapore Code of Corporate Governance including its impetus and background, in comparison to other major principles-based corporate governance codes and the effects of this code on businesses.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Board committees",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(33)  Explain and evaluate the role and purpose of the following committees in effective corporate governance:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Remuneration committees;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Nomination committees; •   Risk committees; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•   Audit committees.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Directors' performance evaluation and remuneration",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(34)  Explain and analyse the general principles for assessing the performance and remuneration of directors.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(35)  Explain and analyse the legal, ethical, competitive and regulatory issues associated with directors' remuneration.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Identifying and assessing risk",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(36)  Define and explain risk in the context of corporate governance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(37)  Define and describe management responsibilities in risk management.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(38)  Explain the dynamic nature of risk assessment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(39)  Explain risk appetite and how this affects risk policy.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Targeting and monitoring of risk",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(40)  Explain and evaluate the importance of monitoring risks.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(41)  Describe and analyse the approach to embedding risk management in an organisation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(vii)  Categories of risk",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(42) Analyse business risks, including strategic, operational, and financial risks.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(viii) Assessment and measurement of risk",
+    "Core/ NonCore": null,
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": ""
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(43)  Explain the concepts of assessing the severity and probability of risk events.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(44)  Describe and evaluate a risk assessment framework.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(45)  Assess the importance and limitations of information for risk management.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(46)  Apply appropriate risk measurement techniques and explain the application of risk management.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Risk management and modelling",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(47)  Explain and assess the importance of risk transfer, avoidance, reduction and acceptance.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(48)  Explain and assess the necessity of risk-taking as part of managing an organisation.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(49)  Explain how business organisations use policies and techniques to mitigate various types of strategic, operational and financial risks.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "INTERNAL CONTROL AND REVIEW",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Management information in internal control",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(50)  Evaluate the qualities and characteristics of information required in internal controls, risk management and risk monitoring.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(51)  Evaluate the costs and benefits in the development of a management information system and/or enterprise risk management system.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Management control systems in corporate governance",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(52)  Explain the importance of internal controls and risk management in corporate governance.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Internal control and audit in corporate governance",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(53)  Describe the importance of internal controls on both internal and external audits.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(54)  Explore and evaluate the effectiveness of internal control systems.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Emerging trends and current issues",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(55)  Summarise the key issues in relation to both domestic and international emerging trends and current issues.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": "Taxation",
+    "Learning Outcomes": "PERSONAL INCOME TAX LIABILITIES",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": "Each technical module in the Singapore CA Qualification is assessed by way of a written endof-module examination that accounts for 100% of a Candidate's final grade. The Taxation Module examination is 100% of the assessment and candidates have to attain a minimum of 50% of the available marks to achieve a pass. The time allowed for the examination paper is 3 hours 15 minutes."
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The scope of income tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(1)  Explain how the tax residency of an individual is determined.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(2)  Demonstrate the application of the three-year and two-year concessional rules for determining tax residence.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(3)  Apply the concepts of tax residence for an individual and its relevance to income tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(4)  Explain the tax position of individuals entering and leaving Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(5)  Determine the income tax treatment for overseas income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(6)  Understand the relevance of the OECD Model Tax Convention under tax treaties in various situations.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Income from employment",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(7)  Recognise the factors that determine whether an engagement is treated as employment or selfemployment and the tax implications thereof.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(8)  Recognise the different basis of assessment of employment income for an individual who is a tax resident or a non-tax resident of Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(9)  Distinguish between gains and profits from employment and capital receipts.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(10)  Compute the assessable income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(11)  Recognise the allowable expenses that can be deducted from employment income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(12)  Compute the amount of employment benefits assessable, including share options, share awards and excess Central Provident Fund (CPF) contributions made by an employer.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(13)  Explain the tax treatment of equity-based remuneration schemes.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(14)  Explain the tax treatment of lump sum receipts eg retrenchment benefits, retirement gratuities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(15)  Explain the not ordinarily resident (NOR) scheme.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iii)  Property and investment income",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(16)  Compute the net investment income, in properties and equities, placement of funds on deposits with banks and loans granted both within and outside Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(17)  Recognise the difference between a business carrying on a trade and held for pure investment intent.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(18)  Compute the tax payable on dividend income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(19)  Recognise the exemptions available for certain types of investment income including investments in unit trusts.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(20)  Outline the income tax position of trust beneficiaries.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  The use of exemptions or reliefs in deferring and minimising income tax liabilities",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(21)  Explain and compute the tax relief for CPF contributions made by employees and the selfemployed.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(22)  Apply and clarify the tax rules relating to the CPF contributions for employees and the self-employed.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(23)  Apply the rules relating to the Supplementary Retirement Scheme (SRS) for employees and the selfemployed.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(24)  Recognise the tax implications for a shareholder/director extracting profits from an owner managed company by way of remuneration versus dividend payments.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(v)  Income from self-employment",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(25)  Recognise the basis of assessment of income from self-employment.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(26)  Distinguish between income and capital receipts.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(27)  Describe and apply the six badges of trade.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(28) Recognise the relief that can be obtained for precommencement expenses.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(29)  Recognise Singapore-sourced professional income of non-residents.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(vi)  Capital allowances:",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(30)  Define 'plant and machinery' for capital allowances purposes.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(31)  Compute capital allowances claimable including accelerated and one-year write-off.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(32)  Compute balancing allowances and balancing charges.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(33)  Compute industrial buildings annual allowance for existing qualifying buildings.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(34)  Compute the balancing adjustment on the disposal of an industrial building.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(35)  Describe how capital allowances can be carried forward and carried back.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(36)  Describe how capital allowances can be claimed against total income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(37)  Illustrate the order of set-off of current and previous years' capital allowances.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(vii)  Relief for trading losses:",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(38)  Explain and apply how trading losses can be carried forward and carried back.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(39)  Explain and apply how trading losses can be claimed against total income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(40)  Explain and apply the order of set-off of current and previous years' trading losses.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(viii) Partnerships, limited liability partnerships and limited partnerships:",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(41)  Explain how a partnership is assessed for tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(42)  Compute the assessable profits for each partner following a change in the profit-sharing ratio.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(43)  Compute the assessable profits for each partner following a change in the membership of the partnership.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(44)  Explain the capital allowances, industrial building allowances and trade loss relief restriction that applies to the partners of a limited liability partnership and a limited partnership.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(45)  Recognise the tax treatment of the income of a partnership.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(46)  Explain the tax implications arising from the transition of a partnership to a limited liability partnership or a limited partnership and vice versa.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(ix)  Responsibilities as an employer",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(47)  Describe the responsibilities of an employer in reporting employee earnings.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(48)  Determine when to seek tax clearance and how to file for tax clearance for non-citizen foreign employees.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The comprehensive computation of taxable income and income tax liability",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(49)  Prepare an income tax computation involving different income sources.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(50)  Calculate the amount of personal reliefs available to individuals and recognise the reliefs and rebates claimable, such as earned income, spouse, children, working mother's child relief, life assurance, aged parents, grandparent caregiver, course fees, foreign maid levy, NSman and parenthood tax rebate.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(51)  Describe the tax relief for donations and the carry forward of unabsorbed donations.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(52)  Compute the chargeable income and the amount of income tax payable.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(53)  Explain the tax treatment of a jointly owned property by a married couple and the exemption granted on owner-occupied residential property.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(54)  Determine the income taxability of minors.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "CORPORATE INCOME TAX LIABILITIES",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Profits chargeable to corporate income tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(55)  Distinguish between income receipts and capital gains.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(56)  Recognise the tax treatment of trade/business income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(57)  Recognise the expenditure that is allowable in calculating the tax-adjusted trading profit (as for individual income tax).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(58)  Recognise the tax treatment of income from sources other than trade/business.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(59)  Recognise the tax treatment of foreign-sourced income received or deemed received in Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(60) Explain how tax relief can be obtained for precommencement expenses.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(61)  Compute capital allowances for plant and machinery (as for individual income tax).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(62)  Compute capital allowances for intellectual property rights.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(63)  Compute income arising from the business of making investments.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(64)  Recognise income that is tax exempt.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(65)  Illustrate how trading losses can be carried forward and forfeited.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(66)  Demonstrate how trading losses can be claimed against income of the current or previous accounting periods.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(67)  Recognise the order of set-off of capital allowances and losses of current and previous years.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(68)  Compute chargeable income for a business.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(69)  Describe how different financial assets and liabilities should be treated for income tax purposes (including FRS 39 tax treatments/adjustments).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(70)  Compute the service income and advise on the tax consequences for a service company.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(ii)  The scope of corporate income tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(71)  Define the terms 'basis period' and 'year of assessment'.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(72)  Determine the basis period for assessing corporate profits, including the case of a change of financial reporting date.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(73)  Detail the tax obligations of incorporating a company.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(74)  Explain how the tax residence of a company is determined.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(75)  Compare the differences in tax treatments between an incorporated company, a branch of a foreign company and a representative office.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(76)  Outline the tax obligations or duties of a liquidator in winding up a company.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iii) The comprehensive computation of the corporate income tax liability",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(77)  Prepare a basic tax computation for a company with different income sources, including investment income.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(78)  Describe the tax relief for donations and the carry forward of unabsorbed donations.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(79)  Explain the tax implications arising from the distribution of profits by a company to its shareholders.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Compute the corporation income tax liability, including the basic calculation of unilateral tax credit and foreign tax credit (including foreign tax credit pooling).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Explain how tax exemptions and reliefs can defer or minimise corporate income tax liabilities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "tax effect of a group corporate structure for corporate",
+    "Core/ NonCore": "",
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "income tax purposes",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(82)  Define members of the same group and recognise the effect of being a member of the same group for corporation tax purposes.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(83)  Recognise the tax reliefs that are available to members of such a group.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(84)  Outline the basic principles contained in the transfer pricing guidelines, including different commonly used methodologies for setting and defending transfer prices, especially in cross-border transfers.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(85)  Examine the effect of a group structure for corporate income tax purposes:",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Tax consequences of a transfer of assets and business, including eligibility under the Mergers and Acquisitions (M&A) Scheme;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Effects of the anti-tax avoidance provisions;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Effects of a corporation becoming a member of a group for only part of a year; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Position where a member of a group enjoys a concessionary rate of tax.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Income tax liability in a cross-border context",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(86)  Outline the impact of the OECD Model Tax Convention under tax treaties on corporate income tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(87)  Define and discuss the tax implications of a 'permanent establishment'.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(88)  Detail the tax position of overseas companies trading in Singapore.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(89)  Define and explain anti-tax avoidance provisions.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(90)  Summarise the provisions within specific Avoidance of Double Taxation Agreements (DTAs).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Tax incentives provided for under the Income Tax Act and Economic Expansion Incentives (Relief from Income Tax) Act",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(91)  Explain the availability of tax incentives for relevant trading activities and business situations including tax incentives for specialised industries such as shipping, banking, insurance, etc.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Others",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(92)  Explain the nature of contractual agreements, the agency relationship, and the consequences of negligence for tax agents.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(93)  Show knowledge of tax treatment for charities, clubs, trade associations and similar institutions.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(94)  Show knowledge of tax treatment for non-resident ship owners, charterers, air transport undertakings and related exemptions.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "WITHHOLDING TAX",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Understand the scope of withholding tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(95)  Describe the scope of withholding tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(96)  Explain the withholding tax implications arising from payments made to non-residents.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Know the withholding tax filing requirements",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(97)  Recognise the due dates for payment of withholding tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(98)  Complete the requisite withholding tax form and comply with filing requirements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Identify and apply the relevant withholding tax rates",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(99)  Identify the various withholding tax rates on different income sources.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(100) Calculate payment penalties on withholding tax.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Be aware of ways to minimise withholding tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(101) Illustrate how withholding tax can be minimised.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "STAMP DUTY",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The scope of stamp duty",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(102) Explain the duties payable on transfers of shares and securities.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(103) Explain the duties payable on transfers of immovable property.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(104) Explain the duties payable on lease and tenancy agreements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Stamp duty treatment",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(105) Describe the stamp duty treatment for property transfers involving no consideration and group transfers.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Stamp duty reliefs and remissions",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(106) Appreciate conveyance directions, aborted sale and purchase agreements and terminated leases.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The administration of stamp duties",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(107) Explain the systems by which stamp duties are administered.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(108) Recognise the detailed rules on interest and penalties.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "GOODS AND SERVICES TAX (GST)",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The scope of GST",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(109) Describe the scope of GST including transactions, which are out of scope eg third-country sale and transfer of going concern (TOGC) that fall under the Reverse charge (RC) mechanism or the Overseas vendor registration regime, as well as those that are out of scope.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(110) Explain the different types of supplies eg zero-rated and exempt supplies.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(111) Evaluate the common GST schemes and incentives available.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The computation of GST liabilities",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(112) Explain how GST is accounted for and administered.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(113) Recognise the tax point under the time of supply rules when goods or services are supplied.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(114) Explain price display, invoicing and other record keeping requirements for a GST registered business.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(115) Explain and apply the principles regarding the valuation of supplies including imports.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(116) Recognise the circumstances in which input GST is claimable and non-claimable (such as blocked input tax).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(117) Recognise the GST implications of a business making exempt supplies (eg de minimis rule).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(118) Recognise the GST implications for customer accounting for prescribed goods.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(119) Compute the available GST reliefs eg trade debts that are bad.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(120) Explain the GST implications of the supply of land and buildings in Singapore",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(121) Explain the GST implications of imports and exports, including the Major Exporter Scheme (MES).",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(122) Explain the GST implications of partial exemption.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(123) Outline the imposition of GST penalties.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(124) Advise on GST treatment for fringe benefits that are commonly given free to employees.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(125) Recognise the different GST treatment for reimbursements and disbursements.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The GST registration requirements",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(126) Recognise the circumstances in which a person must register for GST.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(127) Explain the advantages of voluntary GST registration.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(128) Explain the circumstances in which pre-incorporation and pre-registration input GST can be recovered.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(129) Advise on the GST impact of group registration and divisional registration and GST implications on deregistration.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(130) Explain how and when a person can de-register for GST and GST implications upon deregistration.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "3",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(131) Recognise the GST implications where there is a change in business constitution and ownership.",
+    "Core/ NonCore": "Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "THE IMPORTANCE OF TAXATION TO PERSONAL AND CORPORATE FINANCIAL MANAGEMENT",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The principles underlying personal financial management",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(132) Calculate the receipt from a transaction net of tax, compare the results of alternative scenarios and advise on the most tax efficient course of action.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "How an individual's personal financial objectives may differ depending on his/her circumstances and expectations.",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(133) Communicate and apply the effect of age, family commitments, aspirations and the economy on personal financial objectives.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The applicability of the common forms of personal finance and investment products in a given set of circumstances, including ethical considerations",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(134) Compare and contrast the different tax treatments for the sources of finances available to individuals.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(135) Compare and contrast the different tax treatments for investment products:",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Deposit based investments;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Equities;",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       REITs; and",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "•                       Unit trusts.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "How taxation can affect the financial decisions made by businesses (corporate and unincorporated) and by individuals",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(136) Explain the tax effects of raising equity, loan finance and other sources of funding.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(137) Explain the impact of taxation on the cash flows of a business.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "THE IMPACT OF RELEVANT TAXES ON VARIOUS",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "SITUATIONS AND COURSES OF ACTION, INCLUDING",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "THE INTERACTION OF TAXES",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Contingent tax advice",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(138) Identify and understand the different tax consequences due to the various ways of achieving personal or business outcomes.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(139) Assess the tax advantages and disadvantages of alternative courses of action.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Statutory obligations in different situations",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(140) Explain the statutory obligations imposed in a given situation, including any time limits for action and advising on the implications of non-compliance.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "ETHICALLY MINIMISE AND/OR DEFER TAX LIABILITIES BY THE USE OF STANDARD TAX PLANNING MEASURES",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Tax efficient investments",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(141) Identify and advise on the types of investments and other expenditures that will result in a reduction in tax liabilities for an individual and/or a business.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(142) Advise on legitimate tax planning measures by which the tax liabilities arising from a particular situation or course of action can be mitigated.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(143) Advise on the appropriateness of such investments, expenditures or measures given a particular taxpayer's circumstances or stated objectives for tax planning purposes.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Tax planning and advisory implications",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(144) Advise on the mitigation of tax liabilities with",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "reference to numerical analysis and/or reasoned argument.",
+    "Core/ NonCore": null,
+    "Cognitive level": null,
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(145) Identify and evaluate the ethical and professional issues arising from the provision of tax planning advice.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Current issues in taxation",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(146) Appreciate the current issues in taxation, including the effect of court decisions in recent major tax cases on the interpretation of existing tax legislation.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "1",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "COMMUNICATING WITH CLIENTS, THE IRAS AND OTHER PROFESSIONALS IN AN APPROPRIATE MANNER",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Communication of advice, recommendations and information in the required format",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(147) Present written information, in a language appropriate for the purpose of communication to the intended recipient.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(148) Communicate conclusions reached with relevant supporting computations.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(149) State and explain assumptions made or limitations in the analysis provided.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(150) Identify any inadequacies in the information required to provide a more complete analysis.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(151) Identify and explain other significant non-tax factors that should be considered when communicating tax implications/outcomes.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "The time limits for the submission of information, claims and payment of tax",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(152) Recognise the time limits for the filing of tax returns, including estimates of chargeable income (ECI) and the making of claims.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(153) Recognise the due dates for the payment of tax, including instalment arrangements and tax assessed on estimated chargeable income and withholding tax.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(154) List and clarify the information and records that taxpayers need to retain for tax purposes.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "Penalties for non-compliance",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(155) State the penalties that can be charged for noncompliance with reference to the Income Tax Act.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(156) Calculate late payment penalties on overdue income tax and withholding tax.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(iv)  The procedures relating to enquiries, appeals and disputes",
+    "Core/ NonCore": "",
+    "Cognitive level": "",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(157) Explain the circumstances in which the Comptroller can enquire into the tax affairs of taxpayers.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  },
+  {
+    "Module": null,
+    "Learning Outcomes": "(158) Explain the procedures for dealing with appeals and disputes.",
+    "Core/ NonCore": "Non-Core",
+    "Cognitive level": "2",
+    "bloom taxonomy": null,
+    "Assessment": null
+  }
+]

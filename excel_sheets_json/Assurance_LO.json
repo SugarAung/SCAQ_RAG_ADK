@@ -1,0 +1,1266 @@
+[
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Evaluate inherent risk at assertion-level (ROMM)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Identify and describe specific areas for testing General IT Controls",
+    "Relevant Learning Objective (LO)": "-13",
+    "LO Description (Abbreviated)": "Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Substantive analytical procedures",
+    "Relevant Learning Objective (LO)": "-46",
+    "LO Description (Abbreviated)": "Apply analytical procedures as substantive audit procedures using financial and non-financial data."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Response to management assertions on Goodwill/Intangibles",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Part A",
+    "Question Part": "(i)",
+    "Brief Description of Question Content": "Identify ROMM and describe audit procedures (R&D, Inventory, Bribery)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Part A",
+    "Question Part": "(ii)",
+    "Brief Description of Question Content": "NOCLAR response for bribery allegations",
+    "Relevant Learning Objective (LO)": "-11",
+    "LO Description (Abbreviated)": "Recommend a suitable course of action for a professional accountant to take upon discovering a breach of professional ethics by themselves or by others."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Part B",
+    "Question Part": "(i)",
+    "Brief Description of Question Content": "Discuss violation of fundamental principle (Social Media post) & Suggest safeguard",
+    "Relevant Learning Objective (LO)": "-9",
+    "LO Description (Abbreviated)": "Recognise conflicts in the application of fundamental ethical principles."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part A",
+    "Question Part": "(i)",
+    "Brief Description of Question Content": "Audit procedures for management assumptions (Climate Risk/Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part A",
+    "Question Part": "(ii)",
+    "Brief Description of Question Content": "Identify skeptical assumption on CAPEX and describe audit procedures",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part B",
+    "Question Part": "(i)",
+    "Brief Description of Question Content": "Agree/Disagree with management on Impairment and propose adjustment",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part B",
+    "Question Part": "(ii)",
+    "Brief Description of Question Content": "Agree/Disagree with management assertion on value in use (VIU) conservatism",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part B",
+    "Question Part": "(iii)",
+    "Brief Description of Question Content": "Alternative method for determining Recoverable Amount (FRS 36)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part C",
+    "Question Part": "(i)",
+    "Brief Description of Question Content": "Agree/Disagree with management on Subsequnet Event recognition and rationale",
+    "Relevant Learning Objective (LO)": "-59",
+    "LO Description (Abbreviated)": "Specify audit procedures designed to identify subsequent events that may require adjustment to, or disclosure in, the financial statements of a given entity or steps to be taken for subsequent discovery of facts."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part C",
+    "Question Part": "(ii)",
+    "Brief Description of Question Content": "Recommendations for Subsequnet Event disclosure note",
+    "Relevant Learning Objective (LO)": "-59",
+    "LO Description (Abbreviated)": "Specify audit procedures designed to identify subsequent events that may require adjustment to, or disclosure in, the financial statements of a given entity or steps to be taken for subsequent discovery of facts."
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3 Part C",
+    "Question Part": "(iii)",
+    "Brief Description of Question Content": "Emphasis of Matter (EOM) required for Subsequnet Event",
+    "Relevant Learning Objective (LO)": "-93",
+    "LO Description (Abbreviated)": "Explain when the use of an 'emphasis of matter' paragraph and 'other matter' paragraph would be appropriate."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain transactions for further investigation (Data Analytics)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Communication of significant control deficiencies",
+    "Relevant Learning Objective (LO)": "-19",
+    "LO Description (Abbreviated)": "Describe the auditor's responsibility to communicate with those charged with governance and understand the importance of effective two-way communication..."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Communication of control deficiencies in auditor's report",
+    "Relevant Learning Objective (LO)": "-89",
+    "LO Description (Abbreviated)": "Critically appraise the form and content of an auditor's report in a given situation."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures to confirm sales system documentation accuracy",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Evaluate ROMM (Timing) and design audit procedures (Product Sales)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Evaluate ROMM (Measurement) and design audit procedures (Product Sales)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Explain non-compliance in service revenue recognition (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Recommend compliant revenue recognition approach (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures to identify JSS abuses (Fraud/NOCLAR)",
+    "Relevant Learning Objective (LO)": "-13",
+    "LO Description (Abbreviated)": "Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Apply NOCLAR framework (EP 100) for suspected abuses",
+    "Relevant Learning Objective (LO)": "-11",
+    "LO Description (Abbreviated)": "Recommend a suitable course of action for a professional accountant to take upon discovering a breach of professional ethics by themselves or by others."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Response to successor auditor's letter of clearance (NOCLAR)",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Evaluate EBITDA as proxy for cash flows (Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Evaluate WACC as discount rate (Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Identify omitted items in cash flow projection (Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Evaluate appropriateness of comparing VIU to Goodwill (Impairment)",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(e)(i)",
+    "Brief Description of Question Content": "Evaluate Unmodified opinion with EOM (Understated Impairment)",
+    "Relevant Learning Objective (LO)": "-93",
+    "LO Description (Abbreviated)": "Explain when the use of an 'emphasis of matter' paragraph and 'other matter' paragraph would be appropriate."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(e)(ii)",
+    "Brief Description of Question Content": "Evaluate Disclaimer of opinion (Understated Impairment)",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(f)",
+    "Brief Description of Question Content": "Discuss appropriateness of partner continuation (Rotation)",
+    "Relevant Learning Objective (LO)": "-28",
+    "LO Description (Abbreviated)": "Discuss the ethical and other professional issues, for example, lowballing, involved in establishing and negotiating fees and other types of remuneration for a specified assignment."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain unusual items in Fixed Asset Register (Data Analytics)",
+    "Relevant Learning Objective (LO)": "-45",
+    "LO Description (Abbreviated)": "Identify and evaluate the audit evidence expected to be available to support the assertions about classes of transactions, account balances, and presentation and disclosure."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures to confirm non-deployment of coaches",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)(i)",
+    "Brief Description of Question Content": "Explain appropriateness of two audit opinions",
+    "Relevant Learning Objective (LO)": "-89",
+    "LO Description (Abbreviated)": "Critically appraise the form and content of an auditor's report in a given situation."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)(ii)",
+    "Brief Description of Question Content": "Explain appropriateness of Disclaimer of Opinion",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)(iii)",
+    "Brief Description of Question Content": "Deficiencies in KAM Introduction Paragraph",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)(iv)",
+    "Brief Description of Question Content": "Deficiencies in KAM 1 Valuation of Properties",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)(v)",
+    "Brief Description of Question Content": "Key Audit Matter 2 Going Concern Uncertainty",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Evaluate appropriateness of dates of written representation and audit report",
+    "Relevant Learning Objective (LO)": "-59",
+    "LO Description (Abbreviated)": "Specify audit procedures designed to identify subsequent events that may require adjustment to, or disclosure in, the financial statements of a given entity or steps to be taken for subsequent discovery of facts."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and evaluate issues and implications of potential fraud",
+    "Relevant Learning Objective (LO)": "-13",
+    "LO Description (Abbreviated)": "Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Actions for subsequent event (Fraud discovered after report issued)",
+    "Relevant Learning Objective (LO)": "-59",
+    "LO Description (Abbreviated)": "Specify audit procedures designed to identify subsequent events that may require adjustment to, or disclosure in, the financial statements of a given entity or steps to be taken for subsequent discovery of facts."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Quality control procedures for completed and revised audit (Subsequent event)",
+    "Relevant Learning Objective (LO)": "-20",
+    "LO Description (Abbreviated)": "Explain the principles and purpose of quality control of audit and other assurance engagements under the regulatory framework."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Discuss permissibility of voluntary revision of Financial Statements (Companies Act)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Explain the nature and extent of enquiry and analytical procedures in review engagements and apply these procedures."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Explain addition of \"Other Matter\" section (Revised Financial Statements)",
+    "Relevant Learning Objective (LO)": "-93",
+    "LO Description (Abbreviated)": "Explain when the use of an 'emphasis of matter' paragraph and 'other matter' paragraph would be appropriate."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Discuss appropriateness of accounting treatment for lease amendment (FRS 116)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures to confirm lease amendment and borrowing rate",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Quantify misstatements and state correcting journal entries (Lease)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Describe other ROMM to ROU asset (besides amendment)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Discuss ethical issues of staff accepting prepayment offer",
+    "Relevant Learning Objective (LO)": "-9",
+    "LO Description (Abbreviated)": "Recognise conflicts in the application of fundamental ethical principles."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain transactions for further investigation (Data Analytics)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Determine correct inventory cost (FIFO) and journal entries",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Journal entries to correct misstatement in inventory cost",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Explain accounting for purchase rebate (Inventory Cost)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Quantify and show accounting entries for rebate earned",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Ethical threat (Conflict of Interest) and recommended actions",
+    "Relevant Learning Objective (LO)": "-9",
+    "LO Description (Abbreviated)": "Recognise conflicts in the application of fundamental ethical principles."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Discuss appropriate accounting for legal claim (Alpha & Omega)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Audit procedures for Alpha on out-of-court settlement",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Suggest business reason for collection difference and identify ROMM (ECL)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Suggest changes to improve estimated ECL (FRS 9)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Describe ROMM for Intangible Assets, Prepayments, Non-current Assets HFS",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Design audit procedures for three prepayments",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures for three actions (Going Concern)",
+    "Relevant Learning Objective (LO)": "-61",
+    "LO Description (Abbreviated)": "Recommend audit procedures to evaluate the evidence that might be expected to be available and assess the appropriateness of the going concern basis in given situations."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures to confirm three actions were satisfactorily completed",
+    "Relevant Learning Objective (LO)": "-61",
+    "LO Description (Abbreviated)": "Recommend audit procedures to evaluate the evidence that might be expected to be available and assess the appropriateness of the going concern basis in given situations."
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Discuss revision of audit report (MUGC, EOM) (Going Concern)",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Analyse data and identify issues for further investigation (Data Analytics)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures to confirm validity of tax clearance explanation",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Discuss factors for EOM (Prior year qualified opinion resolved)",
+    "Relevant Learning Objective (LO)": "-93",
+    "LO Description (Abbreviated)": "Explain when the use of an 'emphasis of matter' paragraph and 'other matter' paragraph would be appropriate."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures to verify investment (Cost, Ownership, Influence, Share of Profit)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Describe misstatements from incorrect accounting treatment (Investment)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Explain quantitative and qualitative materiality (Investment)",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "State appropriate audit opinion (Investment)",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain ROMM for sales volume rebate (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Design audit procedures for sales volume rebate ROMM",
+    "Relevant Learning Objective (LO)": "-36",
+    "LO Description (Abbreviated)": "Discuss and apply the use of analytical procedures in the planning of an assignment."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Audit procedure for occurrence and completeness of revenue",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(d)(i)",
+    "Brief Description of Question Content": "Explain why accounting for penalty paid is wrong (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(d)(ii)",
+    "Brief Description of Question Content": "State audit adjustment journal entries for penalty paid",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(e)(i)",
+    "Brief Description of Question Content": "Explain reflection of onerous contract (Loss on contract) in FS",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(e)(ii)",
+    "Brief Description of Question Content": "Discuss ethical issue in advising accounting treatment (Onerous contract)",
+    "Relevant Learning Objective (LO)": "-11",
+    "LO Description (Abbreviated)": "Recommend a suitable course of action for a professional accountant to take upon discovering a breach of professional ethics by themselves or by others."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedure to determine functional currency",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedure to confirm Investment Property classification",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)(i)",
+    "Brief Description of Question Content": "Audit procedure to verify incremental borrowing rate",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)(ii)",
+    "Brief Description of Question Content": "Independent calculation of initial lease liability (FRS 116)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Identify and explain misstatements in consolidated FS (Intragroup lease)",
+    "Relevant Learning Objective (LO)": "-67",
+    "LO Description (Abbreviated)": "Identify and explain the audit risks and necessary audit procedures relevant to the consolidation process and group-wide controls."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Discuss issues and further steps for valuation performed by valuer",
+    "Relevant Learning Objective (LO)": "-53",
+    "LO Description (Abbreviated)": "Evaluate the work required to be done when there is the use of an expert including..."
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(f)",
+    "Brief Description of Question Content": "Identify and explain misstatements and correcting journal entries (Investment Property in Group FS)",
+    "Relevant Learning Objective (LO)": "-67",
+    "LO Description (Abbreviated)": "Identify and explain the audit risks and necessary audit procedures relevant to the consolidation process and group-wide controls."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain issues (Data Analytics) and possible causes",
+    "Relevant Learning Objective (LO)": "-13",
+    "LO Description (Abbreviated)": "Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Discuss reporting suspected fraud to regulatory authority (NOCLAR)",
+    "Relevant Learning Objective (LO)": "-11",
+    "LO Description (Abbreviated)": "Recommend a suitable course of action for a professional accountant to take upon discovering a breach of professional ethics by themselves or by others."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Audit procedures to verify daily allowance rate and trips occurred",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Explain transaction as Sale and Leaseback (FRS 116)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Explain accounting for transaction not being Sale and Leaseback",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Adjusting entries for incorrect S&LB accounting",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Quantify and evaluate individual materiality of misstatements",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Evaluate aggregate materiality of misstatements",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(f)(i)",
+    "Brief Description of Question Content": "Propose audit opinion if none of misstatements corrected",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(f)(ii)",
+    "Brief Description of Question Content": "Propose audit opinion if misstatements (1) and (2) corrected",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(g)",
+    "Brief Description of Question Content": "Describe written representations for uncorrected misstatements",
+    "Relevant Learning Objective (LO)": "-50",
+    "LO Description (Abbreviated)": "Explain the use of written management representations to support other audit evidence and the limitations of representations as evidence."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain ROMM at financial statement level",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Evaluate ROMM at assertion level (Revenue, Leases, CPF, Freelancer, Cash)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Ethical threat (Self-Review) and appropriate safeguard (FS preparation)",
+    "Relevant Learning Objective (LO)": "-9",
+    "LO Description (Abbreviated)": "Recognise conflicts in the application of fundamental ethical principles."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Explain response to request for selecting accounting policies",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Explain whether and why S2 should be audited (Group Audit)",
+    "Relevant Learning Objective (LO)": "-64",
+    "LO Description (Abbreviated)": "Identify and explain the matters specific to planning an audit of group financial statements including assessment of the group, its components, and their environments..."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Suggest alternative ways for full scope audit and advantage (Group Audit)",
+    "Relevant Learning Objective (LO)": "-64",
+    "LO Description (Abbreviated)": "Identify and explain the matters specific to planning an audit of group financial statements including assessment of the group, its components, and their environments..."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Audit procedures to corroborate dormant status (Group Audit)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Audit procedures to corroborate no intra-group S&P transactions",
+    "Relevant Learning Objective (LO)": "-48",
+    "LO Description (Abbreviated)": "Explain the specific audit risks and procedures concerning related parties and related party transactions including significant transactions outside normal business."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "State reflection of management charge in S1 and consolidated FS",
+    "Relevant Learning Objective (LO)": "-67",
+    "LO Description (Abbreviated)": "Identify and explain the audit risks and necessary audit procedures relevant to the consolidation process and group-wide controls."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(f)",
+    "Brief Description of Question Content": "Explain accounting for interest-free loan (Related Party)",
+    "Relevant Learning Objective (LO)": "-48",
+    "LO Description (Abbreviated)": "Explain the specific audit risks and procedures concerning related parties and related party transactions including significant transactions outside normal business."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(g)",
+    "Brief Description of Question Content": "Audit procedures to verify director appointment right and fact (Associate)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(h)",
+    "Brief Description of Question Content": "Implications for audit report (Incorrect Associate Accounting)",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain transactions for further investigation (Data Analytics)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Possible underlying causes of issues (Internal Control)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Audit procedure to verify consideration of sales return in commission",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Evaluate use of Internal Audit work for external audit",
+    "Relevant Learning Objective (LO)": "-85",
+    "LO Description (Abbreviated)": "Evaluate the potential impact of an internal audit function on the planning and performance of the statutory audit."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Determine use of IA Work Done (Extent of procedures, relevant assertion)",
+    "Relevant Learning Objective (LO)": "-85",
+    "LO Description (Abbreviated)": "Evaluate the potential impact of an internal audit function on the planning and performance of the statutory audit."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Discuss implications on audit opinion (Immaterial Impairment misstatement)",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Discuss acceptance of Audit Committee invitation (Code of Corporate Governance)",
+    "Relevant Learning Objective (LO)": "-2",
+    "LO Description (Abbreviated)": "Outline and explain the need for the legal and professional frameworks including: Public oversight of an audit and assurance practice; and..."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Reasons for ability/inability to provide assurance report on internal controls",
+    "Relevant Learning Objective (LO)": "-76",
+    "LO Description (Abbreviated)": "Describe the main categories of assurance services that public accounting entities can provide and assess the benefits of providing these services to management and eternal users."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part I",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures for specific opening balances and relevant assertions",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part I",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures for Impairment and ECL (Opening Balances)",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part II",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify ROMM and audit procedures (Preferred Shares and Intangible Asset)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part III",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures to ascertain reliability of Payroll data (Substantive Analytical Procedures)",
+    "Relevant Learning Objective (LO)": "-46",
+    "LO Description (Abbreviated)": "Apply analytical procedures as substantive audit procedures using financial and non-financial data."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part I",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify ROMM and audit procedures for cash flow projections (Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part II",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Expected audit opinion for unconsolidated subsidiary and justification",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part III",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain unusual observations (Revenue Occurrence)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part III",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Identify and explain courses of action from observations (Revenue Occurrence)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part IV",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Outline specific areas for Going Concern disclosure note",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q4 Part IV",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Appropriate audit opinion and factors to support (Going Concern)",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and rate Financial Statement Level Risk (FSLR) and reason",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Evaluate assertion-level risks for Revenue (ROMM)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Test of control procedures and control objectives (Revenue)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Subsequent events procedures",
+    "Relevant Learning Objective (LO)": "-59",
+    "LO Description (Abbreviated)": "Apply and explain the accounting and disclosure for events after the reporting date."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures for change in functional currency",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q3 Part I",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures for opening balances and assertions (Initial Audit Engagement)",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q3 Part I",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Audit procedures for Impairment and ECL (Initial Audit Engagement)",
+    "Relevant Learning Objective (LO)": "-31",
+    "LO Description (Abbreviated)": "Explain the matters to be considered and the procedures that an audit firm/professional accountant should carry out before accepting and/or continuing a specified client/engagement..."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q3 Part II",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify ROMM and audit procedures (Preferred Shares and Intangible Asset)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Identify and explain material and significant audit risks (broken into risks of material misstatement and detection risks) for a given assignment."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q3 Part III",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures to ascertain reliability of Payroll data (Substantive Analytical Procedures)",
+    "Relevant Learning Objective (LO)": "-46",
+    "LO Description (Abbreviated)": "Apply analytical procedures as substantive audit procedures using financial and non-financial data."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part I",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify ROMM and audit procedures for cash flow projections (Impairment)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Identify accounting estimates and recommend audit procedures and evaluate evidence supporting the assumptions and reasonableness of the estimates, including the related disclosures."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part II",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Expected audit opinion for unconsolidated subsidiary and justification",
+    "Relevant Learning Objective (LO)": "-90",
+    "LO Description (Abbreviated)": "Recognise and evaluate the factors to be taken into account when forming an opinion in a given situation and justify opinions that are consistent with the results of audit or assurance procedures."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part III",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain unusual observations (Revenue Occurrence)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part III",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Identify and explain courses of action from observations (Revenue Occurrence)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part IV",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Outline specific areas for Going Concern disclosure note",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2024-12-01 00:00:00",
+    "Question No.": "Q4 Part IV",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Appropriate audit opinion and factors to support (Going Concern)",
+    "Relevant Learning Objective (LO)": "-62",
+    "LO Description (Abbreviated)": "Assess the adequacy of disclosures in financial statements relating to going concern and Explain the implications for the auditor's report with regard to the going concern basis."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify and explain unusual items in expense claims (Internal Audit)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Describe control deficiencies and recommend improvements (Internal Audit)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Further actions on professional clearance response",
+    "Relevant Learning Objective (LO)": "-30",
+    "LO Description (Abbreviated)": "Identify the key issues that underlie the agreement of the scope and terms of an engagement with a client including the full scope of a statutory audit."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Justification/explanation of communicating new audit client in report",
+    "Relevant Learning Objective (LO)": "-89",
+    "LO Description (Abbreviated)": "Critically appraise the form and content of an auditor's report in a given situation."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Identify control deficiencies, recommend improvement, and test of detail (Excess quantity delivered)",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Substantive procedure and explanation for verifying right to return goods",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Suggest two possible irregularities (Credit notes/Cash refund)",
+    "Relevant Learning Objective (LO)": "-13",
+    "LO Description (Abbreviated)": "Describe the matters to be considered and procedures to be carried out in response to risks of misstatements arising from fraud and error."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Audit procedures for Loan Payable, Property Tax Rebate, JSS Grant",
+    "Relevant Learning Objective (LO)": "-43",
+    "LO Description (Abbreviated)": "Identify and describe audit procedures to obtain sufficient audit evidence from identified sources, eg inquiries, inspection, observation and re-performance."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Explain why accounting treatment is wrong and support with computation",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Identify and explain minimum corrections to avoid modified opinion",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Define materiality and performance materiality and demonstrate how it should be applied in accordance with professional auditing standards."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)(i)",
+    "Brief Description of Question Content": "Design audit procedures for Lease Termination (Impairment/Discontinued)",
+    "Relevant Learning Objective (LO)": "-45",
+    "LO Description (Abbreviated)": "Identify and evaluate the audit evidence expected to be available to support the assertions about classes of transactions, account balances, and presentation and disclosure."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)(ii)",
+    "Brief Description of Question Content": "Design audit procedures for Staff Redundancy (Provision)",
+    "Relevant Learning Objective (LO)": "-45",
+    "LO Description (Abbreviated)": "Identify and evaluate the audit evidence expected to be available to support the assertions about classes of transactions, account balances, and presentation and disclosure."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(a)(iii)",
+    "Brief Description of Question Content": "Design audit procedures for Sale of Equipment (Asset held for sale)",
+    "Relevant Learning Objective (LO)": "-45",
+    "LO Description (Abbreviated)": "Identify and evaluate the audit evidence expected to be available to support the assertions about classes of transactions, account balances, and presentation and disclosure."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Explain need for separate presentation (Discontinued Operation)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply and evaluate audit procedures for all transactions in the extant syllabus for the Financial Reporting module."
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q4",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Ethical issue and appropriate response to offer of discount (Self-Interest)",
+    "Relevant Learning Objective (LO)": "-9",
+    "LO Description (Abbreviated)": "Recognise conflicts in the application of fundamental ethical principles."
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for loan guarantee (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Consolidation journal entries (SFRS(I) 3, 10)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Proof of balance for Non-Controlling Interests (NCI)",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Translate foreign financial statements (SFRS(I) 1-21)",
+    "Relevant Learning Objective (LO)": "-53",
+    "LO Description (Abbreviated)": "Apply and explain the rules for determination of an entity's functional currency.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Equity accounting entries (SFRS(I) 1-28, 1-21)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Proof of balance for Investment in Associate",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Determine leased asset and lease liability (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Journal entry for lease inception (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Lease amortisation table (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Journal entries for lease transactions (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Bitcoin as a financial asset (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-46",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the recognition and de-recognition of financial assets and financial liabilities.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for FVOCI equity and cash flow hedge (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-06-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Impairment loss for FVOCI equity (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-49",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the treatment of impairment of financial assets.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Consolidation entries, excluding divestment",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": "Abridged Income Statement and Statement of Changes in Equity for the year ended 31 December 20x6 P Co S Co A Co Profit before tax 1,589,000 625,000 835,000 Tax (317,800) (125,000) (167,000) Profit after tax 1,271,200 500,000 668,000 Dividends declared (80,000) (90,000) (100,000) Retained profit 1,191,200 410,000 568,000 Retained earnings, 1 January 20x6 725,000 550,000 420,000 Retained earnings, 31 December 20x6 1,916,200 960,000 988,000 Abridged Statement of Financial Position as at 31 December 20x6 P Co S Co A Co Investment in S Co 1,440,000 Investment in A Co 690,000 Amount due from S Co 580,000 Amount due to P Co (580,000) (760,000) Amount due from A Co 760,000 Other net assets 446,200 2,460,000 2,368,000 Net assets 3,916,200 1,880,000 1,608,000 Share capital 2,000,000 800,000 620,000 Retained earnings 1,916,200 960,000 988,000 Revaluation reserves 120,000 Equity 3,916,200 1,880,000 1,608,000"
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Consolidation entry for partial divestment",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": "Table A: Information relating to the investment in S Co and A Co S Co A Co Date of initial investment by P Co Percentage acquired by P Co on initial investment Percentage divested by P Co on 31 December 20x6 Percentage held by P Co after divestment on 31 December 20x6 Shareholders' equity at date of initial investment: Share capital Retained earnings 1 January 20x3 90% 10% 80% 800,000 200,000 1 March 20x4 30% 620,000 250,000 Revaluation reserves 90,000 Shareholders' equity 1,090,000 870,000 Fair value of non-controlling interests on 1 January 20x3 162,000"
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Proof of balance for NCI after divestment",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Equity accounting entries for associate",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Proof of balance for Investment in Associate",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify performance obligations (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Timing of revenue recognition (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Allocate total revenue to performance obligations (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Journal entries for revenue recognition (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Agent vs Principal evaluation (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Lower of cost and NRV in S$ (SFRS(I) 1-2, 1-21)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Extract of Income Statement for Principal/Agent",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Bond amortisation table (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Journal entry for convertible bond issue (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Journal entry for partial bond conversion (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2023-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Journal entry for bond repurchase (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Calculate capitalised borrowing costs (SFRS(I) 1-23)",
+    "Relevant Learning Objective (LO)": "-22",
+    "LO Description (Abbreviated)": "Apply, explain and evaluate accounting standards for major classes of assets, insofar as they affect initial recognition, measurement...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Consolidation journal entries (SFRS(I) 3, 10)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Proof of balance for NCI",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Equity accounting entries for associate (SFRS(I) 1-28)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Proof of balance for Investment in Associate",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Calculate P/L on divestment (equity method)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Statement of Cash Flows (SFRS(I) 1-7)",
+    "Relevant Learning Objective (LO)": "-64",
+    "LO Description (Abbreviated)": "Apply the accounting, disclosure and presentation requirements for equity and other comprehensive income components.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Determine and allocate impairment loss (SFRS(I) 1-36)",
+    "Relevant Learning Objective (LO)": "-28",
+    "LO Description (Abbreviated)": "Allocate impairment losses for a cash-generating unit.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Present S.O.C.I and S.O.F.P (SFRS(I) 5)",
+    "Relevant Learning Objective (LO)": "-75",
+    "LO Description (Abbreviated)": "Prepare group financial statements where activities have been discontinued or have been acquired or disposed of in the period.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2025-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for FVOCI financial assets in S$ (SFRS(I) 9, 1-21)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Translate foreign financial statements (SFRS(I) 1-21)",
+    "Relevant Learning Objective (LO)": "-65",
+    "LO Description (Abbreviated)": "Outline and apply the translation of foreign operations into the group's presentation currency.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Journal entries for intra-group sale (S Co)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Journal entries for inventory re-sale (P Co)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)(iii)",
+    "Brief Description of Question Content": "Consolidation entries for intra-group transactions",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Consolidation adjustments for hedging net investment (SFRS(I) 9, 1-21)",
+    "Relevant Learning Objective (LO)": "-66",
+    "LO Description (Abbreviated)": "Account for the consolidation of foreign operations and their disposal.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Remaining consolidation adjustments (SFRS(I) 3, 10, 1-21)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Capitalise digital platform cost (SFRS(I) 1-38, INT 1-32)",
+    "Relevant Learning Objective (LO)": "-33",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of assets: Goodwill and other intangible assets;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Agent vs Principal evaluation (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Identify separate performance obligations (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)(iii)",
+    "Brief Description of Question Content": "Timing of revenue recognition (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)(iv)",
+    "Brief Description of Question Content": "Allocate invoiced amount to P.O. (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)(v)",
+    "Brief Description of Question Content": "Journal entries for sale and related transactions (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q2 Case C",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Present S.O.C.I and S.O.F.P (SFRS(I) 5)",
+    "Relevant Learning Objective (LO)": "-75",
+    "LO Description (Abbreviated)": "Prepare group financial statements where activities have been discontinued or have been acquired or disposed of in the period.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for forward contract and oil contract (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Calculate effective interest rate (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Apply, explain and evaluate accounting standards for major classes of liabilities, insofar as they affect initial recognition, measurement...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Amortisation table for liability (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Apply, explain and evaluate accounting standards for major classes of liabilities, insofar as they affect initial recognition, measurement...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-06-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)(iii)",
+    "Brief Description of Question Content": "Journal entry for interest expense (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-35",
+    "LO Description (Abbreviated)": "Apply, explain and evaluate accounting standards for major classes of liabilities, insofar as they affect initial recognition, measurement...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Consolidation adjustments for Y Co (SFRS(I) 3, 10)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Proof of balance for NCI of Y Co",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Equity accounting adjustments for JV Co (SFRS(I) 1-28)",
+    "Relevant Learning Objective (LO)": "-74",
+    "LO Description (Abbreviated)": "Outline and apply the key definitions and accounting methods which relate to interests in joint arrangements.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Determine goodwill for X Co and Z Co acquisition (SFRS(I) 3)",
+    "Relevant Learning Objective (LO)": "-71",
+    "LO Description (Abbreviated)": "Apply the recognition and measurement criteria for identifiable acquired assets and liabilities and goodwill...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Lease amortisation table (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Journal entries for lessee (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Journal entry for change in residual value (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Finance or Operating Lease classification for Lessor (SFRS(I) 16)",
+    "Relevant Learning Objective (LO)": "-37",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Leases and contracts with the characteristics of leases;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for share-based compensation (SFRS(I) 2)",
+    "Relevant Learning Objective (LO)": "-44",
+    "LO Description (Abbreviated)": "Apply and discuss the recognition and measurement criteria for share-based payment transactions and arrangements.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Calculate Basic EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Calculate Diluted EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Translate foreign financial statements (SFRS(I) 1-21)",
+    "Relevant Learning Objective (LO)": "-65",
+    "LO Description (Abbreviated)": "Outline and apply the translation of foreign operations into the group's presentation currency.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Translate cash movement for CFS (SFRS(I) 1-21)",
+    "Relevant Learning Objective (LO)": "-65",
+    "LO Description (Abbreviated)": "Outline and apply the translation of foreign operations into the group's presentation currency.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2021-12-01 00:00:00",
+    "Question No.": "Q3",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Consolidated Cash Flow Statement (SFRS(I) 1-7, 10, 1-21)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Consolidation adjustment for Investment in X Co/Y Co",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Consolidation adjustment for change in ownership interest (NCI transaction)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Remaining consolidation adjustments (post-acquisition)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Direct contract costs for POC (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Compute percentage of completion (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Compute revenue and expense (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Journal entries for construction contract (SFRS(I) 15)",
+    "Relevant Learning Objective (LO)": "-41",
+    "LO Description (Abbreviated)": "Apply and explain the rules for income recognition and deferral, including: Combination of contracts;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Deferred tax for construction contract (SFRS(I) 1-12)",
+    "Relevant Learning Objective (LO)": "-38",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Income tax;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q2",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "Contract provision (SFRS(I) 1-37)",
+    "Relevant Learning Objective (LO)": "-39",
+    "LO Description (Abbreviated)": "Apply the relevant accounting treatment on the following classes of liabilities: Provisions and contingencies;",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for futures contract and purchase (SFRS(I) 9, 1-21)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Bond amortisation table for amortised cost (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-49",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the treatment of impairment of financial assets.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-06-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Financial effects on S.O.P.L.O.C.I. (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-48",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the treatment of gains and losses arising from financial assets and financial liabilities.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Consolidation journal entries for S Co (SFRS(I) 3, 10)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Proof of balance for NCI",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Equity accounting adjustments for A Co (SFRS(I) 1-28)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Proof of balance for Investment in Associate",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(e)",
+    "Brief Description of Question Content": "P/L on sale and remeasurement gain/loss (SFRS(I) 10, 1-28)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Identify reportable segments (SFRS(I) 8)",
+    "Relevant Learning Objective (LO)": "-57",
+    "LO Description (Abbreviated)": "Determine the nature and extent of reportable operating segments.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Quantitative footnote disclosure on revenue (SFRS(I) 8)",
+    "Relevant Learning Objective (LO)": "-58",
+    "LO Description (Abbreviated)": "Specify and discuss the nature of operating segment information to be disclosed.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Calculate Basic EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Calculate Diluted EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Evaluate effect on Diluted EPS (SFRS(I) 1-33, 1-10)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "MRPS as equity or liability (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-46",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the recognition and de-recognition of financial assets and financial liabilities.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Journal entries for MRPS (SFRS(I) 1-32, 1-21)",
+    "Relevant Learning Objective (LO)": "-54",
+    "LO Description (Abbreviated)": "Apply the rules for recording and reporting foreign currency transactions for a single entity, other than for hedging transactions.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Bond amortisation table (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(b)(i)",
+    "Brief Description of Question Content": "Journal entry for convertible bond issue (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(b)(ii)",
+    "Brief Description of Question Content": "Journal entry for interest expense (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case B",
+    "Question Part": "(b)(iii)",
+    "Brief Description of Question Content": "Journal entry for bond conversion (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case C",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Explain type of hedging relationship (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case C",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Complete swap valuation table (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-50",
+    "LO Description (Abbreviated)": "Account for derivative financial instruments and simple embedded derivatives.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2022-12-01 00:00:00",
+    "Question No.": "Q3 Case C",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Complete financial statement extracts (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-50",
+    "LO Description (Abbreviated)": "Account for derivative financial instruments and simple embedded derivatives.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Consolidation journal entries (SFRS(I) 3, 10)",
+    "Relevant Learning Objective (LO)": "-72",
+    "LO Description (Abbreviated)": "Determine and apply appropriate consolidation procedures to be used in preparing group financial statements...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q1",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Proof of balance for NCI",
+    "Relevant Learning Objective (LO)": "-69",
+    "LO Description (Abbreviated)": "Apply the method of accounting for business combinations including the accounting for NCI.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Translate foreign financial statements (SFRS(I) 1-21)",
+    "Relevant Learning Objective (LO)": "-65",
+    "LO Description (Abbreviated)": "Outline and apply the translation of foreign operations into the group's presentation currency.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case A",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Equity accounting entries (SFRS(I) 1-28, 1-21)",
+    "Relevant Learning Objective (LO)": "-73",
+    "LO Description (Abbreviated)": "Apply the equity method of accounting for associates.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)(i)",
+    "Brief Description of Question Content": "Journal entry for convertible bond issue (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)(ii)",
+    "Brief Description of Question Content": "Journal entry for bond interest expense (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(a)(iii)",
+    "Brief Description of Question Content": "Journal entry for bond conversion (SFRS(I) 1-32)",
+    "Relevant Learning Objective (LO)": "-47",
+    "LO Description (Abbreviated)": "Apply, discuss and explain the classification of financial assets and financial liabilities and their measurement and disclosure.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Calculate Basic EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(c)",
+    "Brief Description of Question Content": "Calculate Diluted EPS (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q2 Case B",
+    "Question Part": "(d)",
+    "Brief Description of Question Content": "Evaluate effect on EPS due to earlier conversion (SFRS(I) 1-33)",
+    "Relevant Learning Objective (LO)": "-55",
+    "LO Description (Abbreviated)": "Apply and explain the rules for reporting basic and diluted earnings per share...",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part I",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for forward contract and sale (US$) (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part II",
+    "Question Part": "(a)",
+    "Brief Description of Question Content": "Journal entries for forward contract and sale (S$) (SFRS(I) 9, 1-21)",
+    "Relevant Learning Objective (LO)": "-51",
+    "LO Description (Abbreviated)": "Outline the principles of hedge accounting and account for fair value hedges and cash flow hedges including hedge effectiveness.",
+    "Diagram Info": null
+  },
+  {
+    "Exam Paper": "2024-06-01 00:00:00",
+    "Question No.": "Q3 Part II",
+    "Question Part": "(b)",
+    "Brief Description of Question Content": "Explain forward contract direction for FX hedge (SFRS(I) 9)",
+    "Relevant Learning Objective (LO)": "-52",
+    "LO Description (Abbreviated)": "Explain the importance of documentation of purported hedging transactions for the purposes of applying hedge accounting.",
+    "Diagram Info": null
+  }
+]

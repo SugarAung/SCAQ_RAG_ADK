@@ -1,0 +1,80 @@
+[
+  {
+    "Module": "Financial Reporting",
+    "Subtopic": "Financial Reporting Framework",
+    "Learning_Outcome": "Explain the purpose of financial reporting and the objectives of general purpose financial statements.",
+    "Cognitive_Level": "1",
+    "Bloom_Level": "Understand",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Objectives of financial reporting; users; qualitative characteristics",
+    "Description": "Basic understanding of why financial statements are prepared and who uses them.",
+    "Assessment_Type": "Written e-exam",
+    "Duration": "3h 15m",
+    "Tags": "SFRS(I) Framework, Conceptual Framework"
+  },
+  {
+    "Module": "Financial Reporting",
+    "Subtopic": "Revenue Recognition",
+    "Learning_Outcome": "Apply the principles of revenue recognition to various transaction types.",
+    "Cognitive_Level": "2",
+    "Bloom_Level": "Apply",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Revenue; contract; performance obligations",
+    "Description": "Use IFRS 15 concepts to recognise revenue from contracts with customers.",
+    "Assessment_Type": "Written e-exam",
+    "Duration": "3h 15m",
+    "Tags": "IFRS 15, Accruals"
+  },
+  {
+    "Module": "Financial Reporting",
+    "Subtopic": "Financial Instruments",
+    "Learning_Outcome": "Evaluate accounting treatments for financial assets and liabilities under IFRS 9.",
+    "Cognitive_Level": "3",
+    "Bloom_Level": "Evaluate",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Classification; measurement; impairment; hedging",
+    "Description": "Analyze and assess the appropriate classification and measurement of financial instruments.",
+    "Assessment_Type": "Written e-exam",
+    "Duration": "3h 15m",
+    "Tags": "IFRS 9, Financial Assets"
+  },
+  {
+    "Module": "Assurance",
+    "Subtopic": "Audit Evidence",
+    "Learning_Outcome": "Identify and evaluate appropriate sources of audit evidence for various assertions.",
+    "Cognitive_Level": "2",
+    "Bloom_Level": "Analyze",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Audit evidence; assertions; procedures",
+    "Description": "Determine the reliability and sufficiency of audit evidence based on risk assessment.",
+    "Assessment_Type": "Written e-exam",
+    "Duration": "3h 15m",
+    "Tags": "ISA 500, Substantive Testing"
+  },
+  {
+    "Module": "Taxation",
+    "Subtopic": "Corporate Income Tax",
+    "Learning_Outcome": "Compute tax liability for companies in Singapore.",
+    "Cognitive_Level": "2",
+    "Bloom_Level": "Apply",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Tax computation; deductible expenses; capital allowances",
+    "Description": "Apply Singapore Income Tax Act to determine corporate income tax payable.",
+    "Assessment_Type": "Written e-exam",
+    "Duration": "3h 15m",
+    "Tags": "Income Tax Act, Section 14, Section 15"
+  },
+  {
+    "Module": "Ethics and Professionalism",
+    "Subtopic": "Professional Conduct and Ethics",
+    "Learning_Outcome": "Apply the Code of Professional Conduct and Ethics to ethical dilemmas.",
+    "Cognitive_Level": "3",
+    "Bloom_Level": "Evaluate",
+    "Core_or_NonCore": "Core",
+    "Key_Concepts": "Integrity; objectivity; confidentiality",
+    "Description": "Assess ethical threats and propose safeguards in compliance with ISCA EP 100.",
+    "Assessment_Type": "Non-examinable",
+    "Duration": "Non examinable",
+    "Tags": "Ethics, ISCA EP 100"
+  }
+]
